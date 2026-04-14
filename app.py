@@ -3,12 +3,12 @@ import json
 from datetime import datetime
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 
-from pipeline.ingestion import load_dataset, validate_structure
-from pipeline.cleaning import clean_dataset
-from pipeline.analysis import run_all_analyses
-from pipeline.visualization import generate_all_charts
-from pipeline.narrative import generate_narratives
-from pipeline.report_builder import build_report
+from ingestion import load_dataset, validate_structure
+from cleaning import clean_dataset
+from analysis import run_all_analyses
+from visualization import generate_all_charts
+from narrative import generate_narratives
+from report_builder import build_report
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))

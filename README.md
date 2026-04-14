@@ -1,9 +1,4 @@
 # Data Visualisation Story Line
-**Data Analytics Project — Chandigarh University, CSE**
-
-> Ronak Lodhi (24BCS10301) · Archit Sharma (24BCS10412) · Jatin Kumar (24BCS10523)  
-> Guide: Mr. Vishal Dutt
-
 ---
 
 ## Overview

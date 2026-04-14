@@ -1,0 +1,10 @@
+--ETL and Storytelling pipeline
+--6 stage pipeline
+--P1: Ingest
+--P2: Clean
+--P3: Analyse
+--P4: Visualise
+--P5: Narrate
+--P6: Report
+--outputs= charts pngs + pdf report
+--Completely mathematical

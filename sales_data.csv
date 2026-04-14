@@ -1,0 +1,1001 @@
+Date,Product,Category,Region,Units_Sold,Unit_Price,Revenue,Customer_Age,Rating
+2019-01-05,Prime Health and beauty,Health and beauty,Yangon,7,74.69,548.9715,39,9.1
+2019-03-08,Luxe Electronic accessories,Electronic accessories,Naypyitaw,5,15.28,80.22,38,9.6
+2019-03-03,NextGen Home and lifestyle,Home and lifestyle,Yangon,7,46.33,340.5255,23,7.4
+2019-01-27,Luxe Health and beauty,Health and beauty,Yangon,8,58.22,489.048,23,8.4
+2019-02-08,Luxe Sports and travel,Sports and travel,Yangon,7,86.31,634.3785,65,5.3
+2019-03-25,Zen Electronic accessories,Electronic accessories,Naypyitaw,7,85.39,627.6165,21,4.1
+2019-02-25,NextGen Electronic accessories,Electronic accessories,Yangon,6,68.84,433.692,47,5.8
+2019-02-24,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,10,73.56,772.38,28,8.0
+2019-01-10,NextGen Health and beauty,Health and beauty,Yangon,2,36.26,76.146,47,7.2
+2019-02-20,Luxe Food and beverages,Food and beverages,Mandalay,3,54.84,172.746,48,5.9
+2019-02-06,Prime Fashion accessories,Fashion accessories,Mandalay,4,14.48,60.816,41,4.5
+2019-03-09,NextGen Electronic accessories,Electronic accessories,Mandalay,4,25.51,107.142,26,6.8
+2019-02-12,Core Electronic accessories,Electronic accessories,Yangon,5,46.95,246.4875,20,7.1
+2019-02-07,Luxe Food and beverages,Food and beverages,Yangon,10,43.19,453.495,68,8.2
+2019-03-29,Zen Health and beauty,Health and beauty,Yangon,10,71.38,749.49,48,5.7
+2019-01-15,Prime Sports and travel,Sports and travel,Mandalay,6,93.72,590.436,57,4.5
+2019-03-11,Core Health and beauty,Health and beauty,Yangon,7,68.93,506.6355,54,4.6
+2019-01-01,Core Sports and travel,Sports and travel,Yangon,6,72.61,457.443,53,6.9
+2019-01-21,Zen Food and beverages,Food and beverages,Yangon,3,54.67,172.2105,41,8.6
+2019-03-11,Prime Home and lifestyle,Home and lifestyle,Mandalay,2,40.3,84.63,48,4.4
+2019-02-25,Luxe Electronic accessories,Electronic accessories,Naypyitaw,5,86.04,451.71,23,4.8
+2019-03-05,Aura Health and beauty,Health and beauty,Mandalay,3,87.98,277.137,19,5.1
+2019-03-15,Prime Home and lifestyle,Home and lifestyle,Mandalay,2,33.2,69.72,37,4.4
+2019-02-17,Zen Electronic accessories,Electronic accessories,Yangon,5,34.56,181.44,45,9.9
+2019-03-02,Core Sports and travel,Sports and travel,Yangon,3,88.63,279.1845,28,6.0
+2019-03-22,Luxe Home and lifestyle,Home and lifestyle,Yangon,8,52.59,441.756,21,8.5
+2019-02-08,Prime Fashion accessories,Fashion accessories,Mandalay,1,33.52,35.196,32,6.7
+2019-03-10,Aura Fashion accessories,Fashion accessories,Yangon,2,87.67,184.107,23,7.7
+2019-01-25,Aura Food and beverages,Food and beverages,Mandalay,5,88.36,463.89,66,9.6
+2019-03-15,NextGen Health and beauty,Health and beauty,Yangon,9,24.89,235.2105,47,7.4
+2019-02-25,NextGen Fashion accessories,Fashion accessories,Mandalay,5,94.13,494.1825,55,4.8
+2019-01-28,Zen Sports and travel,Sports and travel,Mandalay,9,78.07,737.7615,68,4.5
+2019-01-10,Prime Sports and travel,Sports and travel,Mandalay,8,83.78,703.752,19,5.1
+2019-03-15,Prime Health and beauty,Health and beauty,Yangon,2,96.58,202.818,32,5.1
+2019-02-06,Core Food and beverages,Food and beverages,Naypyitaw,4,99.42,417.564,28,7.5
+2019-01-07,Core Sports and travel,Sports and travel,Naypyitaw,1,68.12,71.526,25,6.8
+2019-03-10,Core Sports and travel,Sports and travel,Yangon,5,62.62,328.755,43,7.0
+2019-01-15,NextGen Electronic accessories,Electronic accessories,Yangon,9,60.88,575.316,68,4.7
+2019-03-23,Prime Health and beauty,Health and beauty,Naypyitaw,8,54.92,461.328,62,7.6
+2019-03-03,Prime Home and lifestyle,Home and lifestyle,Mandalay,8,30.12,253.008,61,7.7
+2019-01-17,Aura Home and lifestyle,Home and lifestyle,Mandalay,1,86.72,91.056,22,7.9
+2019-02-02,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,2,56.11,117.831,23,6.3
+2019-02-08,Luxe Sports and travel,Sports and travel,Mandalay,6,69.12,435.456,43,5.6
+2019-03-04,NextGen Food and beverages,Food and beverages,Naypyitaw,8,98.7,829.08,21,7.6
+2019-03-16,Luxe Health and beauty,Health and beauty,Naypyitaw,2,15.37,32.277,36,7.2
+2019-03-09,Aura Electronic accessories,Electronic accessories,Mandalay,4,93.96,394.632,37,9.5
+2019-02-27,Zen Health and beauty,Health and beauty,Mandalay,9,56.69,535.7205,50,8.4
+2019-02-06,Prime Food and beverages,Food and beverages,Mandalay,9,20.01,189.0945,37,4.1
+2019-02-10,Aura Electronic accessories,Electronic accessories,Mandalay,6,18.93,119.259,66,8.1
+2019-03-19,Prime Fashion accessories,Fashion accessories,Naypyitaw,10,82.63,867.615,29,7.9
+2019-02-03,Core Food and beverages,Food and beverages,Naypyitaw,7,91.4,671.79,64,9.5
+2019-02-10,Zen Food and beverages,Food and beverages,Yangon,5,44.59,234.0975,18,8.5
+2019-03-22,Zen Fashion accessories,Fashion accessories,Mandalay,4,17.87,75.054,43,6.5
+2019-01-25,Aura Fashion accessories,Fashion accessories,Naypyitaw,1,15.43,16.2015,31,6.1
+2019-03-07,Zen Home and lifestyle,Home and lifestyle,Mandalay,2,16.16,33.936,55,6.5
+2019-02-28,Luxe Electronic accessories,Electronic accessories,Naypyitaw,8,85.98,722.232,54,8.2
+2019-03-27,Zen Home and lifestyle,Home and lifestyle,Yangon,2,44.34,93.114,28,5.8
+2019-02-07,Prime Health and beauty,Health and beauty,Yangon,8,89.6,752.64,53,6.6
+2019-01-20,Prime Home and lifestyle,Home and lifestyle,Yangon,10,72.35,759.675,30,5.4
+2019-03-12,Prime Electronic accessories,Electronic accessories,Naypyitaw,6,30.61,192.843,60,9.3
+2019-02-15,Prime Sports and travel,Sports and travel,Naypyitaw,3,24.74,77.931,20,10.0
+2019-02-24,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,6,55.73,351.099,50,7.0
+2019-02-03,NextGen Sports and travel,Sports and travel,Mandalay,9,55.07,520.4115,23,10.0
+2019-03-06,Core Sports and travel,Sports and travel,Yangon,10,15.81,166.005,67,8.6
+2019-02-14,Aura Health and beauty,Health and beauty,Mandalay,4,75.74,318.108,27,7.6
+2019-03-13,Prime Health and beauty,Health and beauty,Yangon,10,15.87,166.635,22,5.8
+2019-02-10,Zen Health and beauty,Health and beauty,Naypyitaw,2,33.47,70.287,40,6.7
+2019-01-07,Prime Fashion accessories,Fashion accessories,Mandalay,6,97.61,614.943,27,9.9
+2019-01-24,Zen Sports and travel,Sports and travel,Yangon,10,78.77,827.085,61,6.4
+2019-02-02,Core Health and beauty,Health and beauty,Yangon,1,18.33,19.2465,19,4.3
+2019-01-06,Core Food and beverages,Food and beverages,Naypyitaw,10,89.48,939.54,30,9.6
+2019-02-11,Core Fashion accessories,Fashion accessories,Naypyitaw,10,62.12,652.26,57,5.9
+2019-03-05,Zen Food and beverages,Food and beverages,Mandalay,3,48.52,152.838,19,4.0
+2019-03-09,Prime Electronic accessories,Electronic accessories,Naypyitaw,6,75.91,478.233,37,8.7
+2019-01-22,Core Home and lifestyle,Home and lifestyle,Yangon,9,74.67,705.6315,18,9.4
+2019-01-13,Luxe Electronic accessories,Electronic accessories,Naypyitaw,10,41.65,437.325,54,5.4
+2019-01-09,Zen Fashion accessories,Fashion accessories,Naypyitaw,9,49.04,463.428,26,8.6
+2019-01-12,Zen Fashion accessories,Fashion accessories,Yangon,9,20.01,189.0945,34,5.7
+2019-03-05,Prime Food and beverages,Food and beverages,Naypyitaw,10,78.31,822.255,26,6.6
+2019-01-22,Zen Health and beauty,Health and beauty,Naypyitaw,5,20.38,106.995,28,6.0
+2019-01-21,Zen Health and beauty,Health and beauty,Naypyitaw,6,99.19,624.897,32,5.5
+2019-01-26,Core Food and beverages,Food and beverages,Mandalay,3,96.68,304.542,41,6.4
+2019-01-23,Prime Food and beverages,Food and beverages,Naypyitaw,8,19.25,161.7,55,6.6
+2019-02-23,Core Food and beverages,Food and beverages,Naypyitaw,4,80.36,337.512,52,8.3
+2019-03-09,Core Sports and travel,Sports and travel,Naypyitaw,5,48.91,256.7775,47,6.6
+2019-03-05,Prime Sports and travel,Sports and travel,Naypyitaw,7,83.06,610.491,48,4.0
+2019-03-25,Aura Fashion accessories,Fashion accessories,Naypyitaw,5,76.52,401.73,66,9.9
+2019-03-27,Core Food and beverages,Food and beverages,Yangon,7,49.38,362.943,22,7.3
+2019-01-02,Luxe Sports and travel,Sports and travel,Yangon,1,42.47,44.5935,61,5.7
+2019-02-27,Luxe Health and beauty,Health and beauty,Mandalay,6,76.99,485.037,67,6.1
+2019-01-23,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,4,47.38,198.996,31,7.1
+2019-01-26,Luxe Sports and travel,Sports and travel,Naypyitaw,10,44.86,471.03,28,8.2
+2019-01-10,Zen Sports and travel,Sports and travel,Yangon,7,21.98,161.553,26,5.1
+2019-03-12,Aura Health and beauty,Health and beauty,Mandalay,9,64.36,608.202,51,8.6
+2019-02-06,Prime Health and beauty,Health and beauty,Naypyitaw,1,89.75,94.2375,29,6.6
+2019-03-08,Prime Electronic accessories,Electronic accessories,Yangon,1,97.16,102.018,52,7.2
+2019-03-29,Prime Health and beauty,Health and beauty,Mandalay,10,87.87,922.635,52,5.1
+2019-02-09,Luxe Electronic accessories,Electronic accessories,Naypyitaw,6,12.45,78.435,18,4.1
+2019-03-23,Aura Food and beverages,Food and beverages,Yangon,3,52.75,166.1625,57,9.3
+2019-03-05,Luxe Home and lifestyle,Home and lifestyle,Mandalay,6,82.7,521.01,39,7.4
+2019-03-26,Luxe Fashion accessories,Fashion accessories,Naypyitaw,1,48.71,51.1455,46,4.1
+2019-03-01,Aura Fashion accessories,Fashion accessories,Naypyitaw,9,78.55,742.2975,25,7.2
+2019-02-01,Aura Electronic accessories,Electronic accessories,Naypyitaw,9,23.07,218.0115,28,4.9
+2019-03-28,Aura Food and beverages,Food and beverages,Yangon,6,58.26,367.038,58,9.9
+2019-03-19,Aura Health and beauty,Health and beauty,Mandalay,7,30.35,223.0725,54,8.0
+2019-01-12,Prime Electronic accessories,Electronic accessories,Yangon,10,88.67,931.035,31,7.3
+2019-01-05,NextGen Fashion accessories,Fashion accessories,Naypyitaw,6,27.38,172.494,47,7.9
+2019-03-22,NextGen Sports and travel,Sports and travel,Yangon,6,62.13,391.419,52,7.4
+2019-03-24,Aura Food and beverages,Food and beverages,Naypyitaw,9,33.98,321.111,38,4.2
+2019-03-03,NextGen Electronic accessories,Electronic accessories,Naypyitaw,10,81.97,860.685,54,9.2
+2019-02-05,NextGen Sports and travel,Sports and travel,Mandalay,2,16.49,34.629,22,4.6
+2019-02-05,Aura Health and beauty,Health and beauty,Naypyitaw,3,98.21,309.3615,36,7.8
+2019-02-15,NextGen Fashion accessories,Fashion accessories,Mandalay,7,72.84,535.374,31,8.4
+2019-01-19,Luxe Home and lifestyle,Home and lifestyle,Yangon,9,58.07,548.7615,43,4.3
+2019-02-01,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,9,80.79,763.4655,21,9.5
+2019-03-02,Zen Fashion accessories,Fashion accessories,Naypyitaw,3,27.02,85.113,42,7.1
+2019-03-05,Aura Fashion accessories,Fashion accessories,Mandalay,5,21.94,115.185,62,5.3
+2019-01-16,Prime Fashion accessories,Fashion accessories,Mandalay,1,51.36,53.928,59,5.2
+2019-02-02,Aura Food and beverages,Food and beverages,Yangon,10,10.96,115.08,42,6.0
+2019-01-20,Prime Home and lifestyle,Home and lifestyle,Mandalay,2,53.44,112.224,35,4.1
+2019-02-14,Zen Electronic accessories,Electronic accessories,Yangon,8,99.56,836.304,57,5.2
+2019-01-12,Aura Sports and travel,Sports and travel,Naypyitaw,7,57.12,419.832,25,6.5
+2019-03-09,Core Sports and travel,Sports and travel,Mandalay,9,99.96,944.622,56,4.2
+2019-03-13,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,8,63.91,536.844,57,4.6
+2019-03-09,NextGen Fashion accessories,Fashion accessories,Mandalay,8,56.47,474.348,31,7.3
+2019-03-10,Prime Home and lifestyle,Home and lifestyle,Yangon,7,93.69,688.6215,49,4.5
+2019-01-27,Core Sports and travel,Sports and travel,Yangon,5,32.25,169.3125,68,9.0
+2019-01-08,NextGen Fashion accessories,Fashion accessories,Naypyitaw,9,31.73,299.8485,55,5.9
+2019-01-08,NextGen Food and beverages,Food and beverages,Naypyitaw,8,68.54,575.736,50,8.5
+2019-02-08,Aura Sports and travel,Sports and travel,Mandalay,9,90.28,853.146,40,7.2
+2019-01-25,NextGen Fashion accessories,Fashion accessories,Mandalay,7,39.62,291.207,32,7.5
+2019-03-06,Luxe Sports and travel,Sports and travel,Yangon,6,92.13,580.419,50,8.3
+2019-02-10,Core Sports and travel,Sports and travel,Mandalay,4,34.84,146.328,42,7.4
+2019-02-17,NextGen Electronic accessories,Electronic accessories,Mandalay,6,87.45,550.935,34,8.8
+2019-03-08,Aura Health and beauty,Health and beauty,Naypyitaw,6,81.3,512.19,50,5.3
+2019-02-18,Luxe Fashion accessories,Fashion accessories,Naypyitaw,3,90.22,284.193,64,6.2
+2019-01-18,Zen Electronic accessories,Electronic accessories,Yangon,5,26.31,138.1275,19,8.8
+2019-02-18,Core Home and lifestyle,Home and lifestyle,Yangon,6,34.42,216.846,31,9.8
+2019-02-16,NextGen Sports and travel,Sports and travel,Mandalay,10,51.91,545.055,57,8.2
+2019-03-16,Aura Sports and travel,Sports and travel,Yangon,8,72.5,609.0,57,9.2
+2019-01-23,Zen Sports and travel,Sports and travel,Naypyitaw,10,89.8,942.9,68,5.4
+2019-01-25,Zen Health and beauty,Health and beauty,Naypyitaw,10,90.5,950.25,56,8.1
+2019-02-05,Prime Health and beauty,Health and beauty,Naypyitaw,10,68.6,720.3,68,9.1
+2019-02-22,Luxe Food and beverages,Food and beverages,Naypyitaw,1,30.41,31.9305,23,8.4
+2019-01-21,NextGen Home and lifestyle,Home and lifestyle,Yangon,6,77.95,491.085,23,8.0
+2019-03-08,Aura Health and beauty,Health and beauty,Naypyitaw,6,46.26,291.438,20,9.5
+2019-02-10,Prime Fashion accessories,Fashion accessories,Yangon,10,30.14,316.47,24,9.2
+2019-03-19,Luxe Health and beauty,Health and beauty,Naypyitaw,4,66.14,277.788,68,5.6
+2019-03-06,Prime Home and lifestyle,Home and lifestyle,Mandalay,8,71.86,603.624,25,6.2
+2019-03-27,Core Health and beauty,Health and beauty,Yangon,8,32.46,272.664,59,4.9
+2019-03-23,Luxe Fashion accessories,Fashion accessories,Mandalay,4,91.54,384.468,69,4.8
+2019-03-11,Luxe Sports and travel,Sports and travel,Naypyitaw,7,34.56,254.016,32,7.3
+2019-01-29,NextGen Fashion accessories,Fashion accessories,Yangon,9,83.24,786.618,64,7.4
+2019-02-07,Luxe Food and beverages,Food and beverages,Naypyitaw,6,16.48,103.824,46,9.9
+2019-01-28,Prime Sports and travel,Sports and travel,Naypyitaw,8,80.97,680.148,50,9.3
+2019-02-20,Luxe Food and beverages,Food and beverages,Yangon,5,92.29,484.5225,69,9.0
+2019-01-04,NextGen Electronic accessories,Electronic accessories,Mandalay,1,72.17,75.7785,47,6.1
+2019-03-07,NextGen Home and lifestyle,Home and lifestyle,Mandalay,5,50.28,263.97,56,9.7
+2019-03-30,Core Health and beauty,Health and beauty,Mandalay,9,97.22,918.729,44,6.0
+2019-03-27,Prime Sports and travel,Sports and travel,Mandalay,6,93.39,588.357,53,10.0
+2019-01-19,Zen Food and beverages,Food and beverages,Naypyitaw,8,43.18,362.712,46,8.3
+2019-02-25,Zen Sports and travel,Sports and travel,Yangon,1,63.69,66.8745,55,6.0
+2019-03-13,Luxe Food and beverages,Food and beverages,Yangon,7,45.79,336.5565,50,7.0
+2019-01-30,Core Sports and travel,Sports and travel,Naypyitaw,2,76.4,160.44,54,6.5
+2019-02-20,Aura Food and beverages,Food and beverages,Mandalay,10,39.9,418.95,44,5.9
+2019-02-25,Luxe Health and beauty,Health and beauty,Mandalay,8,42.57,357.588,50,5.6
+2019-01-16,Core Home and lifestyle,Home and lifestyle,Naypyitaw,10,95.58,1003.59,21,4.8
+2019-02-08,Prime Fashion accessories,Fashion accessories,Yangon,10,98.98,1039.29,39,8.7
+2019-01-19,Prime Food and beverages,Food and beverages,Yangon,6,51.28,323.064,19,6.5
+2019-02-01,Prime Sports and travel,Sports and travel,Yangon,7,69.52,510.972,27,8.5
+2019-01-03,Prime Health and beauty,Health and beauty,Yangon,5,70.01,367.5525,22,5.5
+2019-01-26,Prime Food and beverages,Food and beverages,Mandalay,5,80.05,420.2625,27,9.4
+2019-03-03,Core Electronic accessories,Electronic accessories,Naypyitaw,8,20.85,175.14,50,6.3
+2019-01-19,Core Electronic accessories,Electronic accessories,Mandalay,6,52.89,333.207,55,9.8
+2019-01-18,NextGen Food and beverages,Food and beverages,Mandalay,8,19.79,166.236,30,8.7
+2019-03-21,Zen Home and lifestyle,Home and lifestyle,Yangon,9,33.84,319.788,48,8.8
+2019-03-03,Prime Food and beverages,Food and beverages,Yangon,8,22.17,186.228,64,9.6
+2019-02-13,Aura Fashion accessories,Fashion accessories,Naypyitaw,7,22.51,165.4485,53,4.8
+2019-03-23,Core Food and beverages,Food and beverages,Yangon,6,73.88,465.444,62,4.4
+2019-01-28,Aura Health and beauty,Health and beauty,Naypyitaw,3,86.8,273.42,41,9.9
+2019-02-09,Aura Fashion accessories,Fashion accessories,Naypyitaw,7,64.26,472.311,69,5.7
+2019-01-23,Aura Food and beverages,Food and beverages,Naypyitaw,8,38.47,323.148,32,7.7
+2019-03-23,NextGen Sports and travel,Sports and travel,Yangon,10,15.5,162.75,46,8.0
+2019-01-25,Core Health and beauty,Health and beauty,Naypyitaw,8,34.31,288.204,25,5.7
+2019-03-04,Aura Sports and travel,Sports and travel,Yangon,7,12.34,90.699,22,6.7
+2019-03-05,Prime Food and beverages,Food and beverages,Mandalay,3,18.08,56.952,46,8.0
+2019-03-03,Luxe Home and lifestyle,Home and lifestyle,Mandalay,8,94.49,793.716,64,7.5
+2019-02-08,Aura Home and lifestyle,Home and lifestyle,Mandalay,4,46.47,195.174,21,7.0
+2019-02-10,NextGen Home and lifestyle,Home and lifestyle,Yangon,1,74.07,77.7735,29,9.9
+2019-01-28,Core Home and lifestyle,Home and lifestyle,Naypyitaw,4,69.81,293.202,62,5.9
+2019-02-11,NextGen Home and lifestyle,Home and lifestyle,Mandalay,3,77.04,242.676,19,7.2
+2019-01-15,Aura Fashion accessories,Fashion accessories,Mandalay,2,73.52,154.392,44,4.6
+2019-03-16,Core Food and beverages,Food and beverages,Naypyitaw,9,87.8,829.71,48,9.2
+2019-01-26,Luxe Home and lifestyle,Home and lifestyle,Mandalay,4,25.55,107.31,68,5.7
+2019-03-19,Aura Electronic accessories,Electronic accessories,Yangon,5,32.71,171.7275,68,9.9
+2019-01-13,NextGen Fashion accessories,Fashion accessories,Naypyitaw,1,74.29,78.0045,53,5.0
+2019-03-26,Zen Health and beauty,Health and beauty,Naypyitaw,2,43.7,91.77,53,4.9
+2019-03-23,Prime Home and lifestyle,Home and lifestyle,Yangon,1,25.29,26.5545,43,6.1
+2019-03-12,NextGen Health and beauty,Health and beauty,Naypyitaw,4,41.5,174.3,60,8.2
+2019-02-17,Core Food and beverages,Food and beverages,Naypyitaw,5,71.39,374.7975,44,5.5
+2019-01-29,Aura Sports and travel,Sports and travel,Naypyitaw,6,19.15,120.645,22,6.8
+2019-03-15,Prime Electronic accessories,Electronic accessories,Mandalay,4,57.49,241.458,37,6.6
+2019-01-14,Aura Electronic accessories,Electronic accessories,Naypyitaw,7,61.41,451.3635,28,9.8
+2019-02-06,Core Health and beauty,Health and beauty,Mandalay,10,25.9,271.95,27,8.7
+2019-02-15,Aura Home and lifestyle,Home and lifestyle,Mandalay,5,17.77,93.2925,57,5.4
+2019-01-03,Zen Health and beauty,Health and beauty,Yangon,9,23.03,217.6335,55,7.9
+2019-01-04,Prime Electronic accessories,Electronic accessories,Naypyitaw,9,66.65,629.8425,23,9.7
+2019-03-18,Prime Home and lifestyle,Home and lifestyle,Naypyitaw,10,28.53,299.565,25,7.8
+2019-03-28,Core Fashion accessories,Fashion accessories,Mandalay,3,30.37,95.6655,40,5.1
+2019-03-02,Zen Electronic accessories,Electronic accessories,Mandalay,9,99.73,942.4485,64,6.5
+2019-01-25,NextGen Electronic accessories,Electronic accessories,Yangon,9,26.23,247.8735,43,5.9
+2019-01-16,Aura Food and beverages,Food and beverages,Naypyitaw,9,93.26,881.307,63,8.8
+2019-03-20,Luxe Home and lifestyle,Home and lifestyle,Mandalay,5,92.36,484.89,60,4.9
+2019-01-04,Aura Sports and travel,Sports and travel,Mandalay,3,46.42,146.223,29,4.4
+2019-03-11,Aura Sports and travel,Sports and travel,Mandalay,7,29.61,217.6335,43,6.5
+2019-03-22,NextGen Home and lifestyle,Home and lifestyle,Yangon,1,18.28,19.194,30,8.3
+2019-03-24,Aura Sports and travel,Sports and travel,Mandalay,5,24.77,130.0425,57,8.5
+2019-02-21,Zen Electronic accessories,Electronic accessories,Yangon,3,94.64,298.116,35,5.5
+2019-02-12,Zen Fashion accessories,Fashion accessories,Mandalay,8,94.87,796.908,42,8.7
+2019-03-10,Prime Food and beverages,Food and beverages,Mandalay,3,57.34,180.621,50,7.9
+2019-01-31,Core Electronic accessories,Electronic accessories,Mandalay,6,45.35,285.705,64,6.1
+2019-03-06,Luxe Food and beverages,Food and beverages,Mandalay,7,62.08,456.288,57,5.4
+2019-02-17,Aura Electronic accessories,Electronic accessories,Naypyitaw,5,11.81,62.0025,60,9.4
+2019-02-21,Aura Fashion accessories,Fashion accessories,Naypyitaw,1,12.54,13.167,29,8.2
+2019-03-20,NextGen Food and beverages,Food and beverages,Yangon,2,43.25,90.825,61,6.2
+2019-01-11,Core Sports and travel,Sports and travel,Naypyitaw,2,87.16,183.036,53,9.7
+2019-01-26,Zen Health and beauty,Health and beauty,Mandalay,9,69.37,655.5465,65,4.0
+2019-01-31,Luxe Electronic accessories,Electronic accessories,Naypyitaw,4,37.06,155.652,21,9.7
+2019-02-26,Prime Electronic accessories,Electronic accessories,Mandalay,6,90.7,571.41,22,5.3
+2019-03-11,Zen Home and lifestyle,Home and lifestyle,Yangon,8,63.42,532.728,54,7.4
+2019-01-26,Core Fashion accessories,Fashion accessories,Mandalay,2,81.37,170.877,25,6.5
+2019-03-12,Prime Electronic accessories,Electronic accessories,Mandalay,3,10.59,33.3585,59,8.7
+2019-02-11,NextGen Health and beauty,Health and beauty,Mandalay,9,84.09,794.6505,66,8.0
+2019-02-21,NextGen Fashion accessories,Fashion accessories,Mandalay,4,73.82,310.044,45,6.7
+2019-03-09,Aura Health and beauty,Health and beauty,Yangon,10,51.94,545.37,48,6.5
+2019-01-20,Core Sports and travel,Sports and travel,Yangon,2,93.14,195.594,26,4.1
+2019-01-28,Luxe Health and beauty,Health and beauty,Naypyitaw,5,17.41,91.4025,68,4.9
+2019-03-05,Prime Fashion accessories,Fashion accessories,Naypyitaw,5,44.22,232.155,46,8.6
+2019-03-02,Zen Electronic accessories,Electronic accessories,Mandalay,5,13.22,69.405,31,4.3
+2019-01-11,Core Fashion accessories,Fashion accessories,Yangon,1,89.69,94.1745,57,4.9
+2019-01-11,Core Food and beverages,Food and beverages,Yangon,9,24.94,235.683,58,5.6
+2019-03-11,NextGen Health and beauty,Health and beauty,Yangon,2,59.77,125.517,39,5.8
+2019-02-28,Aura Fashion accessories,Fashion accessories,Naypyitaw,2,93.2,195.72,28,6.0
+2019-01-05,Aura Home and lifestyle,Home and lifestyle,Yangon,4,62.65,263.13,40,4.2
+2019-02-02,Prime Home and lifestyle,Home and lifestyle,Mandalay,8,93.87,788.508,18,8.3
+2019-01-01,NextGen Home and lifestyle,Home and lifestyle,Yangon,8,47.59,399.756,63,5.7
+2019-02-09,Core Electronic accessories,Electronic accessories,Mandalay,3,81.4,256.41,54,4.8
+2019-01-23,Luxe Fashion accessories,Fashion accessories,Yangon,5,17.94,94.185,38,6.8
+2019-01-07,NextGen Electronic accessories,Electronic accessories,Yangon,4,77.72,326.424,43,8.8
+2019-01-14,Prime Food and beverages,Food and beverages,Mandalay,7,73.06,536.991,63,4.2
+2019-02-02,Prime Food and beverages,Food and beverages,Mandalay,9,46.55,439.8975,53,6.4
+2019-03-17,NextGen Fashion accessories,Fashion accessories,Naypyitaw,10,35.19,369.495,40,8.4
+2019-03-02,Prime Sports and travel,Sports and travel,Naypyitaw,2,14.39,30.219,18,7.2
+2019-03-16,NextGen Home and lifestyle,Home and lifestyle,Yangon,4,23.75,99.75,68,5.2
+2019-01-06,Zen Home and lifestyle,Home and lifestyle,Yangon,8,58.9,494.76,57,8.9
+2019-01-29,NextGen Fashion accessories,Fashion accessories,Mandalay,4,32.62,137.004,32,9.0
+2019-01-31,NextGen Electronic accessories,Electronic accessories,Yangon,1,66.35,69.6675,38,9.7
+2019-02-05,Prime Home and lifestyle,Home and lifestyle,Yangon,6,25.91,163.233,64,8.7
+2019-02-13,Prime Electronic accessories,Electronic accessories,Yangon,4,32.25,135.45,26,6.5
+2019-02-07,Aura Electronic accessories,Electronic accessories,Naypyitaw,4,65.94,276.948,26,6.9
+2019-03-19,Aura Electronic accessories,Electronic accessories,Yangon,9,75.06,709.317,27,6.2
+2019-03-07,Zen Fashion accessories,Fashion accessories,Naypyitaw,4,16.45,69.09,69,5.6
+2019-03-13,Aura Fashion accessories,Fashion accessories,Mandalay,4,38.3,160.86,43,5.7
+2019-02-09,NextGen Sports and travel,Sports and travel,Yangon,10,22.24,233.52,58,4.2
+2019-02-26,Prime Sports and travel,Sports and travel,Mandalay,1,54.45,57.1725,52,7.9
+2019-03-12,Aura Sports and travel,Sports and travel,Yangon,7,98.4,723.24,69,8.7
+2019-03-14,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,4,35.47,148.974,42,6.9
+2019-01-08,Zen Food and beverages,Food and beverages,Mandalay,10,74.6,783.3,43,9.5
+2019-01-05,Core Home and lifestyle,Home and lifestyle,Yangon,4,70.74,297.108,28,4.4
+2019-01-04,Zen Home and lifestyle,Home and lifestyle,Yangon,10,35.54,373.17,55,7.0
+2019-03-06,NextGen Sports and travel,Sports and travel,Mandalay,5,67.43,354.0075,19,6.3
+2019-01-03,Prime Health and beauty,Health and beauty,Naypyitaw,2,21.12,44.352,24,9.7
+2019-01-07,Zen Home and lifestyle,Home and lifestyle,Yangon,9,21.54,203.553,35,8.8
+2019-01-27,Aura Home and lifestyle,Home and lifestyle,Yangon,2,12.03,25.263,44,5.1
+2019-02-26,Prime Health and beauty,Health and beauty,Mandalay,6,99.71,628.173,51,7.9
+2019-01-07,Prime Fashion accessories,Fashion accessories,Mandalay,7,47.97,352.5795,44,6.2
+2019-01-07,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,10,21.82,229.11,34,7.1
+2019-02-02,Zen Fashion accessories,Fashion accessories,Naypyitaw,4,95.42,400.764,60,6.4
+2019-03-20,Aura Fashion accessories,Fashion accessories,Naypyitaw,10,70.99,745.395,61,5.7
+2019-03-20,Core Sports and travel,Sports and travel,Yangon,10,44.02,462.21,68,9.6
+2019-02-15,Prime Home and lifestyle,Home and lifestyle,Yangon,8,69.96,587.664,41,6.4
+2019-03-06,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,1,37.0,38.85,42,7.9
+2019-01-06,Luxe Sports and travel,Sports and travel,Yangon,1,15.34,16.107,24,6.5
+2019-03-04,NextGen Health and beauty,Health and beauty,Yangon,6,99.83,628.929,69,8.5
+2019-03-12,Aura Health and beauty,Health and beauty,Yangon,4,47.67,200.214,23,9.1
+2019-02-20,Aura Health and beauty,Health and beauty,Mandalay,5,66.68,350.07,41,7.6
+2019-03-24,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,1,74.86,78.603,50,6.9
+2019-01-31,NextGen Sports and travel,Sports and travel,Naypyitaw,9,23.75,224.4375,66,9.5
+2019-01-25,NextGen Food and beverages,Food and beverages,Mandalay,7,48.51,356.5485,46,5.2
+2019-02-03,Prime Home and lifestyle,Home and lifestyle,Yangon,7,94.88,697.368,60,4.2
+2019-01-24,Core Electronic accessories,Electronic accessories,Mandalay,10,40.3,423.15,39,7.0
+2019-03-14,Aura Electronic accessories,Electronic accessories,Naypyitaw,7,27.85,204.6975,43,6.0
+2019-02-18,Prime Electronic accessories,Electronic accessories,Yangon,1,62.48,65.604,45,4.7
+2019-01-21,NextGen Food and beverages,Food and beverages,Yangon,2,36.36,76.356,67,7.1
+2019-03-13,Aura Health and beauty,Health and beauty,Mandalay,10,18.11,190.155,38,5.9
+2019-03-03,Prime Electronic accessories,Electronic accessories,Naypyitaw,5,51.92,272.58,66,7.5
+2019-03-29,Core Electronic accessories,Electronic accessories,Naypyitaw,4,28.84,121.128,24,6.4
+2019-01-10,Prime Home and lifestyle,Home and lifestyle,Yangon,6,78.38,493.794,34,5.8
+2019-01-25,Core Home and lifestyle,Home and lifestyle,Yangon,4,60.01,252.042,37,4.5
+2019-01-19,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,1,88.61,93.0405,58,7.7
+2019-01-02,Core Fashion accessories,Fashion accessories,Naypyitaw,2,99.82,209.622,66,6.7
+2019-03-12,Aura Health and beauty,Health and beauty,Mandalay,1,39.01,40.9605,37,4.7
+2019-02-25,NextGen Food and beverages,Food and beverages,Naypyitaw,1,48.61,51.0405,39,4.4
+2019-03-18,Aura Electronic accessories,Electronic accessories,Yangon,4,51.19,214.998,45,4.7
+2019-02-23,Luxe Electronic accessories,Electronic accessories,Mandalay,8,14.96,125.664,57,8.6
+2019-03-26,Zen Electronic accessories,Electronic accessories,Yangon,7,72.2,530.67,66,4.3
+2019-03-30,Core Sports and travel,Sports and travel,Yangon,7,40.23,295.6905,24,9.6
+2019-02-17,Zen Home and lifestyle,Home and lifestyle,Yangon,8,88.79,745.836,18,4.1
+2019-03-21,Zen Electronic accessories,Electronic accessories,Yangon,3,26.48,83.412,49,4.7
+2019-03-05,Core Fashion accessories,Fashion accessories,Yangon,2,81.91,172.011,30,7.8
+2019-01-31,NextGen Sports and travel,Sports and travel,Mandalay,6,79.93,503.559,47,5.5
+2019-02-05,Luxe Fashion accessories,Fashion accessories,Naypyitaw,2,69.33,145.593,40,9.7
+2019-02-01,Aura Food and beverages,Food and beverages,Yangon,5,14.23,74.7075,68,4.4
+2019-03-07,Prime Health and beauty,Health and beauty,Yangon,9,15.55,146.9475,36,5.0
+2019-02-10,Aura Electronic accessories,Electronic accessories,Naypyitaw,10,78.13,820.365,49,4.4
+2019-02-14,Prime Food and beverages,Food and beverages,Naypyitaw,2,99.37,208.677,47,5.2
+2019-02-09,Aura Food and beverages,Food and beverages,Naypyitaw,3,21.08,66.402,46,7.3
+2019-01-10,Core Electronic accessories,Electronic accessories,Naypyitaw,5,74.79,392.6475,66,4.9
+2019-03-11,Luxe Health and beauty,Health and beauty,Naypyitaw,7,29.67,218.0745,62,8.1
+2019-02-18,Prime Health and beauty,Health and beauty,Naypyitaw,4,44.07,185.094,46,8.4
+2019-02-26,NextGen Food and beverages,Food and beverages,Naypyitaw,9,22.93,216.6885,47,5.5
+2019-01-18,Aura Health and beauty,Health and beauty,Naypyitaw,1,39.42,41.391,33,8.4
+2019-02-15,Aura Health and beauty,Health and beauty,Yangon,6,15.26,96.138,57,9.8
+2019-03-08,Prime Fashion accessories,Fashion accessories,Yangon,5,61.77,324.2925,36,6.7
+2019-01-17,NextGen Home and lifestyle,Home and lifestyle,Yangon,6,21.52,135.576,35,9.4
+2019-03-12,NextGen Sports and travel,Sports and travel,Mandalay,4,97.74,410.508,18,6.4
+2019-03-09,Core Food and beverages,Food and beverages,Yangon,5,99.78,523.845,31,5.4
+2019-03-12,Core Food and beverages,Food and beverages,Naypyitaw,4,94.26,395.892,68,8.6
+2019-01-25,Core Health and beauty,Health and beauty,Mandalay,4,51.13,214.746,64,4.0
+2019-03-25,Core Electronic accessories,Electronic accessories,Yangon,4,36.36,152.712,67,7.6
+2019-02-07,Core Home and lifestyle,Home and lifestyle,Mandalay,9,22.02,208.089,19,6.8
+2019-02-17,Core Food and beverages,Food and beverages,Yangon,3,32.9,103.635,45,9.1
+2019-02-03,Luxe Fashion accessories,Fashion accessories,Yangon,5,77.02,404.355,66,5.5
+2019-03-14,NextGen Food and beverages,Food and beverages,Yangon,2,23.48,49.308,67,7.9
+2019-03-24,Core Sports and travel,Sports and travel,Naypyitaw,5,14.7,77.175,47,8.5
+2019-03-21,NextGen Electronic accessories,Electronic accessories,Yangon,5,28.45,149.3625,55,9.1
+2019-03-19,NextGen Fashion accessories,Fashion accessories,Yangon,9,76.4,721.98,68,7.5
+2019-02-24,Zen Sports and travel,Sports and travel,Mandalay,6,57.95,365.085,21,5.2
+2019-03-28,Luxe Electronic accessories,Electronic accessories,Naypyitaw,3,47.65,150.0975,18,9.5
+2019-02-05,Core Food and beverages,Food and beverages,Mandalay,9,42.82,404.649,25,8.9
+2019-02-10,Aura Electronic accessories,Electronic accessories,Mandalay,3,48.09,151.4835,46,7.8
+2019-03-05,Prime Health and beauty,Health and beauty,Mandalay,7,55.97,411.3795,56,8.9
+2019-02-15,Aura Health and beauty,Health and beauty,Mandalay,7,76.9,565.215,20,7.7
+2019-01-30,Luxe Food and beverages,Food and beverages,Naypyitaw,5,97.03,509.4075,49,9.3
+2019-02-14,Prime Sports and travel,Sports and travel,Yangon,3,44.65,140.6475,27,6.2
+2019-02-27,Luxe Fashion accessories,Fashion accessories,Yangon,9,77.93,736.4385,27,7.6
+2019-02-04,NextGen Electronic accessories,Electronic accessories,Yangon,1,71.95,75.5475,36,7.3
+2019-01-20,Prime Home and lifestyle,Home and lifestyle,Naypyitaw,8,89.25,749.7,63,4.7
+2019-03-28,NextGen Electronic accessories,Electronic accessories,Yangon,7,26.02,191.247,51,5.1
+2019-02-27,Aura Health and beauty,Health and beauty,Mandalay,10,13.5,141.75,50,4.8
+2019-02-15,Aura Fashion accessories,Fashion accessories,Naypyitaw,10,99.3,1042.65,40,6.6
+2019-01-26,Prime Electronic accessories,Electronic accessories,Yangon,7,51.69,379.9215,45,5.5
+2019-03-14,Prime Fashion accessories,Fashion accessories,Mandalay,7,54.73,402.2655,49,8.5
+2019-03-02,Core Home and lifestyle,Home and lifestyle,Mandalay,9,27.0,255.15,67,4.8
+2019-03-04,Luxe Electronic accessories,Electronic accessories,Naypyitaw,1,30.24,31.752,24,8.4
+2019-01-07,Core Food and beverages,Food and beverages,Mandalay,4,89.14,374.388,46,7.8
+2019-03-08,Luxe Fashion accessories,Fashion accessories,Naypyitaw,10,37.55,394.275,25,9.3
+2019-01-09,Core Sports and travel,Sports and travel,Naypyitaw,10,95.44,1002.12,18,5.2
+2019-03-01,NextGen Electronic accessories,Electronic accessories,Mandalay,3,27.5,86.625,20,6.5
+2019-03-16,Prime Sports and travel,Sports and travel,Mandalay,1,74.97,78.7185,41,5.6
+2019-02-17,Aura Food and beverages,Food and beverages,Yangon,8,80.96,680.064,40,7.4
+2019-02-27,Luxe Food and beverages,Food and beverages,Naypyitaw,8,94.47,793.548,25,9.1
+2019-03-07,Luxe Food and beverages,Food and beverages,Naypyitaw,2,99.79,209.559,64,8.0
+2019-01-21,Aura Home and lifestyle,Home and lifestyle,Yangon,6,73.22,461.286,54,7.2
+2019-02-19,Core Food and beverages,Food and beverages,Naypyitaw,4,41.24,173.208,20,7.1
+2019-01-06,Luxe Fashion accessories,Fashion accessories,Naypyitaw,4,81.68,343.056,68,9.1
+2019-03-14,NextGen Electronic accessories,Electronic accessories,Naypyitaw,9,51.32,484.974,50,5.6
+2019-03-24,Prime Home and lifestyle,Home and lifestyle,Yangon,4,65.94,276.948,45,6.0
+2019-01-27,Aura Sports and travel,Sports and travel,Naypyitaw,10,14.36,150.78,64,5.4
+2019-03-06,Prime Electronic accessories,Electronic accessories,Yangon,9,21.5,203.175,25,7.8
+2019-02-02,Luxe Electronic accessories,Electronic accessories,Mandalay,7,26.26,193.011,51,9.9
+2019-01-25,Luxe Fashion accessories,Fashion accessories,Mandalay,2,60.96,128.016,52,4.9
+2019-03-14,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,6,70.11,441.693,49,5.2
+2019-01-29,NextGen Fashion accessories,Fashion accessories,Naypyitaw,6,42.08,265.104,41,8.9
+2019-01-03,Zen Home and lifestyle,Home and lifestyle,Yangon,5,67.09,352.2225,31,9.1
+2019-01-14,Aura Fashion accessories,Fashion accessories,Yangon,5,96.7,507.675,49,7.0
+2019-01-05,Zen Home and lifestyle,Home and lifestyle,Mandalay,9,35.38,334.341,63,9.6
+2019-02-22,Core Sports and travel,Sports and travel,Naypyitaw,7,95.49,701.8515,60,8.7
+2019-02-06,Zen Fashion accessories,Fashion accessories,Naypyitaw,4,96.98,407.316,33,9.4
+2019-01-30,NextGen Electronic accessories,Electronic accessories,Mandalay,4,23.65,99.33,21,4.0
+2019-01-11,Core Sports and travel,Sports and travel,Yangon,4,82.33,345.786,69,7.5
+2019-03-19,Zen Electronic accessories,Electronic accessories,Naypyitaw,2,26.61,55.881,54,4.2
+2019-01-14,Core Food and beverages,Food and beverages,Mandalay,5,99.69,523.3725,38,9.9
+2019-03-01,Zen Food and beverages,Food and beverages,Naypyitaw,4,74.89,314.538,31,4.2
+2019-01-06,NextGen Food and beverages,Food and beverages,Yangon,5,40.94,214.935,48,9.9
+2019-01-31,Zen Sports and travel,Sports and travel,Mandalay,1,75.82,79.611,65,5.8
+2019-03-11,Zen Food and beverages,Food and beverages,Naypyitaw,6,46.77,294.651,35,6.0
+2019-02-20,Zen Health and beauty,Health and beauty,Yangon,10,32.32,339.36,24,10.0
+2019-01-27,Aura Fashion accessories,Fashion accessories,Naypyitaw,9,54.07,510.9615,27,9.5
+2019-03-10,Aura Food and beverages,Food and beverages,Mandalay,7,18.22,133.917,24,6.6
+2019-02-15,Aura Fashion accessories,Fashion accessories,Naypyitaw,3,80.48,253.512,50,8.1
+2019-01-26,NextGen Fashion accessories,Fashion accessories,Mandalay,10,37.95,398.475,40,9.7
+2019-02-13,Core Electronic accessories,Electronic accessories,Yangon,1,76.82,80.661,38,7.2
+2019-03-09,Luxe Sports and travel,Sports and travel,Yangon,10,52.26,548.73,36,6.2
+2019-03-06,Zen Health and beauty,Health and beauty,Yangon,1,79.74,83.727,65,7.3
+2019-01-24,Zen Health and beauty,Health and beauty,Yangon,5,77.5,406.875,36,4.3
+2019-03-13,NextGen Food and beverages,Food and beverages,Yangon,5,54.27,284.9175,53,4.6
+2019-03-15,Zen Home and lifestyle,Home and lifestyle,Mandalay,9,13.59,128.4255,46,5.8
+2019-03-05,Aura Health and beauty,Health and beauty,Mandalay,6,41.06,258.678,35,8.3
+2019-03-04,Luxe Electronic accessories,Electronic accessories,Mandalay,9,19.24,181.818,19,8.0
+2019-03-25,Prime Food and beverages,Food and beverages,Naypyitaw,6,39.43,248.409,18,9.4
+2019-03-12,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,4,46.22,194.124,64,6.2
+2019-02-04,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,1,13.98,14.679,22,9.8
+2019-02-22,Prime Fashion accessories,Fashion accessories,Mandalay,5,39.75,208.6875,37,9.6
+2019-02-16,Luxe Fashion accessories,Fashion accessories,Naypyitaw,7,97.79,718.7565,28,4.9
+2019-01-19,Prime Sports and travel,Sports and travel,Yangon,4,67.26,282.492,59,8.0
+2019-01-11,Aura Food and beverages,Food and beverages,Yangon,5,13.79,72.3975,19,7.8
+2019-01-04,Core Fashion accessories,Fashion accessories,Mandalay,4,68.71,288.582,20,4.1
+2019-03-04,Core Home and lifestyle,Home and lifestyle,Yangon,4,56.53,237.426,40,5.5
+2019-01-28,Prime Fashion accessories,Fashion accessories,Naypyitaw,5,23.82,125.055,29,5.4
+2019-01-02,NextGen Health and beauty,Health and beauty,Mandalay,10,34.21,359.205,37,5.1
+2019-01-25,Prime Sports and travel,Sports and travel,Mandalay,2,21.87,45.927,22,6.9
+2019-01-04,Zen Health and beauty,Health and beauty,Yangon,5,20.97,110.0925,54,7.8
+2019-03-10,Zen Sports and travel,Sports and travel,Yangon,3,25.84,81.396,55,6.6
+2019-03-22,Core Home and lifestyle,Home and lifestyle,Yangon,8,50.93,427.812,47,9.2
+2019-01-25,NextGen Health and beauty,Health and beauty,Mandalay,1,96.11,100.9155,26,7.8
+2019-01-08,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,4,45.38,190.596,51,8.7
+2019-01-22,Zen Health and beauty,Health and beauty,Naypyitaw,1,81.51,85.5855,61,9.2
+2019-01-12,Core Health and beauty,Health and beauty,Mandalay,2,57.22,120.162,52,8.3
+2019-02-04,Luxe Electronic accessories,Electronic accessories,Yangon,7,25.22,185.367,69,8.2
+2019-03-28,Core Food and beverages,Food and beverages,Naypyitaw,3,38.6,121.59,39,7.5
+2019-01-23,Zen Electronic accessories,Electronic accessories,Naypyitaw,3,84.05,264.7575,61,9.8
+2019-02-08,Zen Fashion accessories,Fashion accessories,Naypyitaw,10,97.21,1020.705,41,8.7
+2019-03-19,Core Fashion accessories,Fashion accessories,Mandalay,8,25.42,213.528,34,6.7
+2019-03-09,Aura Fashion accessories,Fashion accessories,Naypyitaw,1,16.28,17.094,27,5.0
+2019-01-02,Prime Fashion accessories,Fashion accessories,Mandalay,9,40.61,383.7645,47,7.0
+2019-01-21,Zen Health and beauty,Health and beauty,Yangon,7,53.17,390.7995,63,8.9
+2019-03-20,Core Food and beverages,Food and beverages,Mandalay,3,20.87,65.7405,40,8.0
+2019-02-27,Core Sports and travel,Sports and travel,Mandalay,5,67.27,353.1675,49,6.9
+2019-03-08,NextGen Home and lifestyle,Home and lifestyle,Yangon,10,90.65,951.825,34,7.3
+2019-01-31,Prime Fashion accessories,Fashion accessories,Mandalay,2,69.08,145.068,67,6.9
+2019-03-08,Luxe Food and beverages,Food and beverages,Naypyitaw,2,43.27,90.867,68,5.7
+2019-01-13,Aura Electronic accessories,Electronic accessories,Yangon,6,23.46,147.798,34,6.4
+2019-03-09,Luxe Fashion accessories,Fashion accessories,Mandalay,7,95.54,702.219,31,9.6
+2019-02-22,Prime Fashion accessories,Fashion accessories,Mandalay,1,47.44,49.812,26,6.8
+2019-03-19,Prime Sports and travel,Sports and travel,Naypyitaw,9,99.24,937.818,57,9.0
+2019-01-20,Prime Sports and travel,Sports and travel,Naypyitaw,4,82.93,348.306,19,9.6
+2019-03-08,Luxe Home and lifestyle,Home and lifestyle,Yangon,6,33.99,214.137,62,7.7
+2019-03-08,Prime Food and beverages,Food and beverages,Naypyitaw,4,17.04,71.568,42,7.0
+2019-02-07,Core Electronic accessories,Electronic accessories,Naypyitaw,8,40.86,343.224,56,6.5
+2019-01-15,Luxe Food and beverages,Food and beverages,Naypyitaw,5,17.44,91.56,26,8.1
+2019-03-22,Prime Sports and travel,Sports and travel,Mandalay,8,88.43,742.812,39,4.3
+2019-01-15,Core Home and lifestyle,Home and lifestyle,Yangon,9,89.21,843.0345,60,6.5
+2019-01-08,NextGen Fashion accessories,Fashion accessories,Naypyitaw,1,12.78,13.419,63,9.5
+2019-01-15,Prime Sports and travel,Sports and travel,Yangon,7,19.1,140.385,21,9.7
+2019-01-28,Luxe Health and beauty,Health and beauty,Mandalay,1,19.15,20.1075,43,9.5
+2019-02-14,Zen Food and beverages,Food and beverages,Naypyitaw,10,27.66,290.43,46,8.9
+2019-03-10,Prime Fashion accessories,Fashion accessories,Naypyitaw,3,45.74,144.081,62,6.5
+2019-01-12,Zen Health and beauty,Health and beauty,Mandalay,1,27.07,28.4235,51,5.3
+2019-03-26,Core Sports and travel,Sports and travel,Mandalay,1,39.12,41.076,40,9.6
+2019-01-01,NextGen Electronic accessories,Electronic accessories,Mandalay,6,74.71,470.673,54,6.7
+2019-01-02,Aura Electronic accessories,Electronic accessories,Mandalay,6,22.01,138.663,28,7.6
+2019-03-16,NextGen Food and beverages,Food and beverages,Yangon,5,63.61,333.9525,23,4.8
+2019-03-03,Prime Health and beauty,Health and beauty,Yangon,1,25.0,26.25,35,5.5
+2019-01-31,Zen Electronic accessories,Electronic accessories,Yangon,4,20.77,87.234,38,4.7
+2019-02-13,Zen Fashion accessories,Fashion accessories,Mandalay,5,29.56,155.19,59,6.9
+2019-02-15,Luxe Food and beverages,Food and beverages,Mandalay,9,77.4,731.43,53,4.5
+2019-02-07,Zen Electronic accessories,Electronic accessories,Mandalay,10,79.39,833.595,58,6.2
+2019-01-27,Luxe Electronic accessories,Electronic accessories,Naypyitaw,10,46.57,488.985,55,7.6
+2019-02-23,Core Food and beverages,Food and beverages,Naypyitaw,1,35.89,37.6845,51,7.9
+2019-02-03,Aura Food and beverages,Food and beverages,Naypyitaw,5,40.52,212.73,34,4.5
+2019-03-03,Prime Food and beverages,Food and beverages,Mandalay,10,73.05,767.025,54,8.7
+2019-02-03,Luxe Sports and travel,Sports and travel,Naypyitaw,4,73.95,310.59,42,6.1
+2019-03-17,Aura Food and beverages,Food and beverages,Naypyitaw,1,22.62,23.751,55,6.4
+2019-03-28,Zen Food and beverages,Food and beverages,Yangon,5,51.34,269.535,29,9.1
+2019-03-02,Zen Sports and travel,Sports and travel,Naypyitaw,10,54.55,572.775,40,7.1
+2019-02-08,Aura Health and beauty,Health and beauty,Naypyitaw,7,37.15,273.0525,59,7.7
+2019-03-22,Zen Sports and travel,Sports and travel,Mandalay,6,37.02,233.226,39,4.5
+2019-02-09,Core Food and beverages,Food and beverages,Naypyitaw,1,21.58,22.659,38,7.2
+2019-02-15,Core Electronic accessories,Electronic accessories,Naypyitaw,1,98.84,103.782,44,8.4
+2019-01-23,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,6,83.77,527.751,48,5.4
+2019-01-25,Luxe Sports and travel,Sports and travel,Yangon,4,40.05,168.21,23,9.7
+2019-02-02,Luxe Fashion accessories,Fashion accessories,Yangon,10,43.13,452.865,44,5.5
+2019-03-30,Aura Health and beauty,Health and beauty,Mandalay,8,72.57,609.588,57,4.6
+2019-03-30,Luxe Electronic accessories,Electronic accessories,Yangon,5,64.44,338.31,51,6.6
+2019-02-25,Luxe Health and beauty,Health and beauty,Yangon,3,65.18,205.317,29,6.3
+2019-03-18,Core Sports and travel,Sports and travel,Yangon,5,33.26,174.615,62,4.2
+2019-03-07,Luxe Electronic accessories,Electronic accessories,Naypyitaw,4,84.07,353.094,24,4.4
+2019-03-16,NextGen Sports and travel,Sports and travel,Mandalay,10,34.37,360.885,27,6.7
+2019-01-29,Prime Electronic accessories,Electronic accessories,Yangon,1,38.6,40.53,62,6.7
+2019-02-02,Zen Food and beverages,Food and beverages,Naypyitaw,8,65.97,554.148,34,8.4
+2019-02-15,NextGen Electronic accessories,Electronic accessories,Naypyitaw,10,32.8,344.4,43,6.2
+2019-01-08,Luxe Sports and travel,Sports and travel,Yangon,5,37.14,194.985,38,5.0
+2019-02-12,Core Home and lifestyle,Home and lifestyle,Mandalay,10,60.38,633.99,45,6.0
+2019-01-01,Aura Sports and travel,Sports and travel,Naypyitaw,10,36.98,388.29,63,7.0
+2019-03-21,Luxe Sports and travel,Sports and travel,Mandalay,4,49.49,207.858,19,6.6
+2019-02-28,Core Fashion accessories,Fashion accessories,Mandalay,10,41.09,431.445,60,7.3
+2019-03-23,Prime Fashion accessories,Fashion accessories,Yangon,4,37.15,156.03,18,8.3
+2019-01-30,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,1,22.96,24.108,68,4.3
+2019-02-04,Aura Home and lifestyle,Home and lifestyle,Mandalay,9,77.68,734.076,53,9.8
+2019-03-13,Core Fashion accessories,Fashion accessories,Mandalay,2,34.7,72.87,68,8.2
+2019-03-15,Core Fashion accessories,Fashion accessories,Yangon,10,19.66,206.43,43,7.2
+2019-03-05,Core Health and beauty,Health and beauty,Mandalay,8,25.32,212.688,46,8.7
+2019-03-05,Prime Home and lifestyle,Home and lifestyle,Naypyitaw,10,12.12,127.26,38,8.4
+2019-02-26,Luxe Fashion accessories,Fashion accessories,Mandalay,2,99.89,209.769,28,7.1
+2019-03-20,Prime Sports and travel,Sports and travel,Mandalay,8,75.92,637.728,57,5.5
+2019-01-01,Zen Electronic accessories,Electronic accessories,Naypyitaw,2,63.22,132.762,28,8.5
+2019-01-27,Zen Food and beverages,Food and beverages,Naypyitaw,6,90.24,568.512,53,6.2
+2019-01-21,Luxe Sports and travel,Sports and travel,Mandalay,1,98.13,103.0365,66,8.9
+2019-02-02,Prime Sports and travel,Sports and travel,Yangon,8,51.52,432.768,56,9.6
+2019-02-03,Aura Sports and travel,Sports and travel,Mandalay,1,73.97,77.6685,57,5.4
+2019-01-05,Core Fashion accessories,Fashion accessories,Naypyitaw,1,31.9,33.495,52,9.1
+2019-01-27,Core Home and lifestyle,Home and lifestyle,Naypyitaw,2,69.4,145.74,51,9.0
+2019-03-25,Luxe Sports and travel,Sports and travel,Mandalay,2,93.31,195.951,64,6.3
+2019-02-25,Zen Sports and travel,Sports and travel,Mandalay,1,88.45,92.8725,41,9.5
+2019-01-28,Zen Electronic accessories,Electronic accessories,Yangon,8,24.18,203.112,39,9.8
+2019-01-08,Core Sports and travel,Sports and travel,Mandalay,3,48.5,152.775,22,6.7
+2019-01-29,Luxe Food and beverages,Food and beverages,Mandalay,6,84.05,529.515,50,7.7
+2019-03-29,Prime Health and beauty,Health and beauty,Mandalay,5,61.29,321.7725,53,7.0
+2019-02-09,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,6,15.95,100.485,64,5.1
+2019-01-16,Prime Sports and travel,Sports and travel,Mandalay,7,90.74,666.939,37,6.2
+2019-01-05,Zen Home and lifestyle,Home and lifestyle,Yangon,5,42.91,225.2775,36,6.1
+2019-01-27,Zen Fashion accessories,Fashion accessories,Yangon,7,54.28,398.958,52,9.3
+2019-03-14,NextGen Electronic accessories,Electronic accessories,Yangon,7,99.55,731.6925,69,7.6
+2019-02-23,Zen Sports and travel,Sports and travel,Naypyitaw,7,58.39,429.1665,60,8.2
+2019-03-18,Aura Fashion accessories,Fashion accessories,Naypyitaw,1,51.47,54.0435,34,8.5
+2019-03-29,Luxe Health and beauty,Health and beauty,Mandalay,5,54.86,288.015,62,9.8
+2019-01-22,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,5,39.39,206.7975,60,8.7
+2019-03-01,Prime Home and lifestyle,Home and lifestyle,Yangon,2,34.73,72.933,51,9.7
+2019-01-17,Zen Sports and travel,Sports and travel,Naypyitaw,5,71.92,377.58,26,4.3
+2019-03-26,Aura Electronic accessories,Electronic accessories,Mandalay,3,45.71,143.9865,43,7.7
+2019-03-20,Prime Home and lifestyle,Home and lifestyle,Naypyitaw,6,83.17,523.971,19,7.3
+2019-02-06,NextGen Home and lifestyle,Home and lifestyle,Yangon,6,37.44,235.872,26,5.9
+2019-01-01,Prime Health and beauty,Health and beauty,Naypyitaw,2,62.87,132.027,26,5.0
+2019-01-27,Prime Food and beverages,Food and beverages,Yangon,6,81.71,514.773,57,8.0
+2019-02-25,Zen Sports and travel,Sports and travel,Yangon,5,91.41,479.9025,34,7.1
+2019-01-16,NextGen Fashion accessories,Fashion accessories,Mandalay,4,39.21,164.682,18,9.0
+2019-01-13,Prime Fashion accessories,Fashion accessories,Mandalay,2,59.86,125.706,42,6.7
+2019-02-07,Aura Food and beverages,Food and beverages,Mandalay,10,54.36,570.78,60,6.1
+2019-02-17,Aura Sports and travel,Sports and travel,Yangon,9,98.09,926.9505,57,9.3
+2019-02-12,Luxe Health and beauty,Health and beauty,Yangon,6,25.43,160.209,59,7.0
+2019-01-24,NextGen Fashion accessories,Fashion accessories,Yangon,8,86.68,728.112,42,7.2
+2019-02-06,NextGen Electronic accessories,Electronic accessories,Mandalay,10,22.95,240.975,56,8.2
+2019-03-26,Luxe Food and beverages,Food and beverages,Naypyitaw,9,16.31,154.1295,52,8.4
+2019-03-11,Prime Home and lifestyle,Home and lifestyle,Yangon,5,28.32,148.68,20,6.2
+2019-02-07,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,7,16.67,122.5245,67,7.4
+2019-01-05,Aura Fashion accessories,Fashion accessories,Mandalay,1,73.96,77.658,54,5.0
+2019-03-07,Aura Home and lifestyle,Home and lifestyle,Yangon,1,97.94,102.837,61,6.9
+2019-02-25,Zen Fashion accessories,Fashion accessories,Yangon,4,73.05,306.81,61,4.9
+2019-02-01,NextGen Food and beverages,Food and beverages,Naypyitaw,6,87.48,551.124,68,5.1
+2019-01-22,Prime Home and lifestyle,Home and lifestyle,Yangon,3,30.68,96.642,47,9.1
+2019-01-03,Luxe Health and beauty,Health and beauty,Naypyitaw,1,75.88,79.674,55,7.1
+2019-02-13,Luxe Sports and travel,Sports and travel,Mandalay,4,20.18,84.756,51,5.0
+2019-01-28,Prime Electronic accessories,Electronic accessories,Naypyitaw,6,18.77,118.251,29,5.5
+2019-01-05,Core Food and beverages,Food and beverages,Mandalay,1,71.2,74.76,36,9.2
+2019-03-19,Zen Home and lifestyle,Home and lifestyle,Mandalay,4,38.81,163.002,54,4.9
+2019-01-12,Luxe Fashion accessories,Fashion accessories,Yangon,10,29.42,308.91,61,8.9
+2019-01-07,NextGen Sports and travel,Sports and travel,Yangon,9,60.95,575.9775,66,6.0
+2019-01-26,Zen Sports and travel,Sports and travel,Mandalay,5,51.54,270.585,34,4.2
+2019-01-23,NextGen Electronic accessories,Electronic accessories,Yangon,6,66.06,416.178,27,7.3
+2019-02-09,Aura Fashion accessories,Fashion accessories,Mandalay,3,57.27,180.4005,66,6.5
+2019-02-22,Zen Fashion accessories,Fashion accessories,Mandalay,9,54.31,513.2295,64,8.9
+2019-02-05,Luxe Health and beauty,Health and beauty,Mandalay,9,58.24,550.368,29,9.7
+2019-03-07,Zen Electronic accessories,Electronic accessories,Naypyitaw,6,22.21,139.923,33,8.6
+2019-03-25,Zen Electronic accessories,Electronic accessories,Yangon,7,19.32,142.002,41,6.9
+2019-01-20,Zen Home and lifestyle,Home and lifestyle,Mandalay,3,37.48,118.062,36,7.7
+2019-02-04,Core Fashion accessories,Fashion accessories,Mandalay,2,72.04,151.284,25,9.5
+2019-01-30,Zen Food and beverages,Food and beverages,Naypyitaw,10,98.52,1034.46,48,4.5
+2019-01-02,NextGen Food and beverages,Food and beverages,Yangon,6,41.66,262.458,38,5.6
+2019-03-29,Aura Home and lifestyle,Home and lifestyle,Yangon,3,72.42,228.123,34,8.2
+2019-03-14,Prime Electronic accessories,Electronic accessories,Mandalay,9,21.58,203.931,40,7.3
+2019-02-11,Zen Food and beverages,Food and beverages,Naypyitaw,10,89.2,936.6,54,4.4
+2019-01-30,Luxe Electronic accessories,Electronic accessories,Mandalay,8,42.42,356.328,33,5.7
+2019-03-20,Zen Electronic accessories,Electronic accessories,Yangon,6,74.51,469.413,23,5.0
+2019-03-20,Luxe Fashion accessories,Fashion accessories,Mandalay,2,99.25,208.425,25,9.0
+2019-01-17,NextGen Food and beverages,Food and beverages,Yangon,10,81.21,852.705,42,6.3
+2019-02-03,Luxe Sports and travel,Sports and travel,Naypyitaw,10,49.33,517.965,35,9.4
+2019-01-01,Prime Fashion accessories,Fashion accessories,Yangon,9,65.74,621.243,42,7.7
+2019-01-10,Aura Fashion accessories,Fashion accessories,Mandalay,7,79.86,586.971,29,5.5
+2019-03-02,Luxe Sports and travel,Sports and travel,Naypyitaw,7,73.98,543.753,32,4.1
+2019-02-25,Luxe Home and lifestyle,Home and lifestyle,Mandalay,5,82.04,430.71,43,7.6
+2019-01-29,Aura Sports and travel,Sports and travel,Mandalay,10,26.67,280.035,58,8.6
+2019-03-10,Prime Food and beverages,Food and beverages,Yangon,7,10.13,74.4555,62,8.3
+2019-01-13,Zen Food and beverages,Food and beverages,Mandalay,2,72.39,152.019,43,8.1
+2019-03-22,Luxe Sports and travel,Sports and travel,Yangon,5,85.91,451.0275,64,8.6
+2019-03-01,Aura Fashion accessories,Fashion accessories,Mandalay,7,81.31,597.6285,49,6.3
+2019-02-20,NextGen Food and beverages,Food and beverages,Mandalay,4,60.3,253.26,27,5.8
+2019-01-14,Aura Food and beverages,Food and beverages,Naypyitaw,4,31.77,133.434,33,6.2
+2019-03-26,NextGen Health and beauty,Health and beauty,Yangon,4,64.27,269.934,24,7.7
+2019-03-01,Prime Health and beauty,Health and beauty,Mandalay,2,69.51,145.971,34,8.1
+2019-01-07,Zen Food and beverages,Food and beverages,Naypyitaw,3,27.22,85.743,40,7.3
+2019-02-01,Aura Health and beauty,Health and beauty,Yangon,4,77.68,326.256,43,8.4
+2019-02-13,Core Fashion accessories,Fashion accessories,Naypyitaw,2,92.98,195.258,38,8.0
+2019-01-14,Luxe Fashion accessories,Fashion accessories,Mandalay,4,18.08,75.936,39,9.5
+2019-01-19,Prime Sports and travel,Sports and travel,Mandalay,3,63.06,198.639,24,7.0
+2019-03-09,Aura Health and beauty,Health and beauty,Yangon,4,51.71,217.182,31,9.8
+2019-03-27,Luxe Food and beverages,Food and beverages,Yangon,3,52.34,164.871,32,9.2
+2019-02-04,Aura Sports and travel,Sports and travel,Yangon,5,43.06,226.065,24,7.7
+2019-03-14,NextGen Fashion accessories,Fashion accessories,Naypyitaw,10,59.61,625.905,26,5.3
+2019-03-04,Aura Health and beauty,Health and beauty,Yangon,5,14.62,76.755,68,4.4
+2019-03-03,Core Health and beauty,Health and beauty,Naypyitaw,6,46.53,293.139,65,4.3
+2019-01-27,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,7,24.24,178.164,25,9.4
+2019-02-07,Aura Sports and travel,Sports and travel,Yangon,1,45.58,47.859,67,9.8
+2019-02-05,Core Sports and travel,Sports and travel,Yangon,3,75.2,236.88,40,4.8
+2019-03-15,Prime Sports and travel,Sports and travel,Mandalay,3,96.8,304.92,46,5.3
+2019-03-01,Aura Health and beauty,Health and beauty,Mandalay,3,14.82,46.683,35,8.7
+2019-02-15,Core Food and beverages,Food and beverages,Yangon,3,52.2,164.43,48,9.5
+2019-02-17,Luxe Sports and travel,Sports and travel,Naypyitaw,9,46.66,440.937,47,5.3
+2019-01-26,NextGen Fashion accessories,Fashion accessories,Naypyitaw,5,36.85,193.4625,69,9.2
+2019-03-24,NextGen Home and lifestyle,Home and lifestyle,Yangon,2,70.32,147.672,56,9.6
+2019-01-23,Aura Electronic accessories,Electronic accessories,Naypyitaw,1,83.08,87.234,52,6.4
+2019-01-26,Prime Fashion accessories,Fashion accessories,Naypyitaw,1,64.99,68.2395,35,4.5
+2019-03-14,Prime Food and beverages,Food and beverages,Naypyitaw,10,77.56,814.38,59,6.9
+2019-03-17,Luxe Sports and travel,Sports and travel,Mandalay,6,54.51,343.413,56,7.8
+2019-01-08,Aura Fashion accessories,Fashion accessories,Naypyitaw,7,51.89,381.3915,34,4.5
+2019-02-08,NextGen Home and lifestyle,Home and lifestyle,Mandalay,4,31.75,133.35,31,8.6
+2019-02-10,Prime Fashion accessories,Fashion accessories,Yangon,7,53.65,394.3275,48,5.2
+2019-03-28,Aura Food and beverages,Food and beverages,Naypyitaw,4,49.79,209.118,41,6.4
+2019-01-23,Prime Fashion accessories,Fashion accessories,Yangon,1,30.61,32.1405,52,5.2
+2019-01-17,Core Food and beverages,Food and beverages,Mandalay,2,57.89,121.569,61,8.9
+2019-02-07,Prime Electronic accessories,Electronic accessories,Yangon,1,28.96,30.408,62,6.2
+2019-03-09,NextGen Food and beverages,Food and beverages,Naypyitaw,9,98.97,935.2665,51,6.7
+2019-01-24,Zen Fashion accessories,Fashion accessories,Mandalay,3,93.22,293.643,20,7.2
+2019-01-19,Luxe Sports and travel,Sports and travel,Naypyitaw,1,80.93,84.9765,54,9.0
+2019-02-03,Luxe Food and beverages,Food and beverages,Yangon,10,67.45,708.225,60,4.2
+2019-03-20,NextGen Sports and travel,Sports and travel,Yangon,9,38.72,365.904,57,4.2
+2019-01-13,Prime Sports and travel,Sports and travel,Mandalay,6,72.6,457.38,43,6.9
+2019-03-14,Aura Electronic accessories,Electronic accessories,Naypyitaw,5,87.91,461.5275,40,4.4
+2019-01-23,Prime Food and beverages,Food and beverages,Yangon,6,98.53,620.739,61,4.0
+2019-02-07,NextGen Fashion accessories,Fashion accessories,Naypyitaw,6,43.46,273.798,56,8.5
+2019-03-28,Luxe Food and beverages,Food and beverages,Yangon,3,71.68,225.792,32,9.2
+2019-03-20,Prime Food and beverages,Food and beverages,Yangon,1,91.61,96.1905,66,9.8
+2019-01-17,Luxe Home and lifestyle,Home and lifestyle,Mandalay,7,94.59,695.2365,21,4.9
+2019-01-12,Aura Fashion accessories,Fashion accessories,Mandalay,10,83.25,874.125,46,4.4
+2019-02-16,Luxe Fashion accessories,Fashion accessories,Mandalay,1,91.35,95.9175,39,6.8
+2019-01-26,Luxe Food and beverages,Food and beverages,Mandalay,2,78.88,165.648,42,9.1
+2019-03-09,Zen Sports and travel,Sports and travel,Yangon,2,60.87,127.827,30,8.7
+2019-03-14,Zen Health and beauty,Health and beauty,Mandalay,10,82.58,867.09,35,5.0
+2019-01-25,Core Home and lifestyle,Home and lifestyle,Yangon,3,53.3,167.895,50,7.5
+2019-01-26,Zen Fashion accessories,Fashion accessories,Yangon,1,12.09,12.6945,33,8.2
+2019-01-19,Luxe Sports and travel,Sports and travel,Yangon,10,64.19,673.995,62,6.7
+2019-03-05,NextGen Electronic accessories,Electronic accessories,Yangon,3,78.31,246.6765,59,5.4
+2019-01-15,Luxe Food and beverages,Food and beverages,Yangon,2,83.77,175.917,61,7.0
+2019-03-18,NextGen Home and lifestyle,Home and lifestyle,Mandalay,3,99.7,314.055,19,4.7
+2019-03-20,NextGen Food and beverages,Food and beverages,Mandalay,3,79.91,251.7165,52,5.0
+2019-01-15,Zen Health and beauty,Health and beauty,Mandalay,10,66.47,697.935,59,5.0
+2019-03-03,Prime Health and beauty,Health and beauty,Yangon,7,28.95,212.7825,51,6.0
+2019-03-19,Aura Electronic accessories,Electronic accessories,Naypyitaw,1,46.2,48.51,47,6.3
+2019-03-08,Zen Food and beverages,Food and beverages,Mandalay,5,17.63,92.5575,30,8.5
+2019-02-27,Zen Fashion accessories,Fashion accessories,Mandalay,3,52.42,165.123,30,7.5
+2019-02-23,Prime Food and beverages,Food and beverages,Mandalay,3,98.79,311.1885,35,6.4
+2019-03-19,Aura Electronic accessories,Electronic accessories,Naypyitaw,8,88.55,743.82,49,4.7
+2019-03-27,Luxe Electronic accessories,Electronic accessories,Mandalay,2,55.67,116.907,49,6.0
+2019-03-30,Core Food and beverages,Food and beverages,Naypyitaw,8,72.52,609.168,52,4.0
+2019-02-16,Core Electronic accessories,Electronic accessories,Naypyitaw,5,12.05,63.2625,56,5.5
+2019-01-18,Luxe Home and lifestyle,Home and lifestyle,Yangon,9,19.36,182.952,63,8.7
+2019-03-30,Zen Health and beauty,Health and beauty,Naypyitaw,6,70.21,442.323,69,7.4
+2019-03-20,Aura Fashion accessories,Fashion accessories,Mandalay,1,33.63,35.3115,46,5.6
+2019-01-16,Zen Sports and travel,Sports and travel,Naypyitaw,2,15.49,32.529,66,6.3
+2019-02-24,NextGen Electronic accessories,Electronic accessories,Naypyitaw,10,24.74,259.77,46,7.1
+2019-01-15,Zen Electronic accessories,Electronic accessories,Mandalay,5,75.66,397.215,61,7.8
+2019-01-22,Zen Health and beauty,Health and beauty,Mandalay,6,55.81,351.603,33,9.9
+2019-02-03,Luxe Home and lifestyle,Home and lifestyle,Yangon,10,72.78,764.19,61,7.3
+2019-03-06,Luxe Sports and travel,Sports and travel,Mandalay,9,37.32,352.674,64,5.1
+2019-02-16,Luxe Fashion accessories,Fashion accessories,Mandalay,4,60.18,252.756,27,9.4
+2019-03-14,Core Electronic accessories,Electronic accessories,Yangon,3,15.69,49.4235,47,5.8
+2019-02-27,NextGen Electronic accessories,Electronic accessories,Naypyitaw,1,99.69,104.6745,42,8.0
+2019-01-18,Luxe Fashion accessories,Fashion accessories,Yangon,3,88.15,277.6725,56,7.9
+2019-01-29,Aura Sports and travel,Sports and travel,Yangon,5,27.93,146.6325,37,5.9
+2019-02-26,Core Fashion accessories,Fashion accessories,Yangon,1,55.45,58.2225,22,4.9
+2019-02-03,Prime Sports and travel,Sports and travel,Mandalay,3,42.97,135.3555,18,9.3
+2019-01-16,Aura Sports and travel,Sports and travel,Naypyitaw,7,17.14,125.979,47,7.9
+2019-03-24,Aura Fashion accessories,Fashion accessories,Mandalay,6,58.75,370.125,66,5.9
+2019-02-12,Luxe Food and beverages,Food and beverages,Naypyitaw,10,87.1,914.55,20,9.9
+2019-02-21,Prime Sports and travel,Sports and travel,Naypyitaw,2,98.8,207.48,62,7.7
+2019-02-04,Prime Fashion accessories,Fashion accessories,Yangon,4,48.63,204.246,31,7.6
+2019-02-20,Core Food and beverages,Food and beverages,Mandalay,3,57.74,181.881,47,7.7
+2019-02-23,Prime Health and beauty,Health and beauty,Mandalay,4,17.97,75.474,67,6.4
+2019-02-16,NextGen Health and beauty,Health and beauty,Naypyitaw,6,47.71,300.573,21,4.4
+2019-01-17,Luxe Sports and travel,Sports and travel,Mandalay,2,40.62,85.302,35,4.1
+2019-01-14,Prime Fashion accessories,Fashion accessories,Yangon,10,56.04,588.42,54,4.4
+2019-03-30,Core Food and beverages,Food and beverages,Mandalay,2,93.4,196.14,42,5.5
+2019-03-02,NextGen Health and beauty,Health and beauty,Mandalay,3,73.41,231.2415,65,4.0
+2019-02-15,Zen Health and beauty,Health and beauty,Naypyitaw,8,33.64,282.576,18,9.3
+2019-03-01,Zen Electronic accessories,Electronic accessories,Yangon,10,45.48,477.54,63,4.8
+2019-02-24,NextGen Fashion accessories,Fashion accessories,Mandalay,2,83.77,175.917,32,4.6
+2019-02-19,Core Sports and travel,Sports and travel,Mandalay,7,64.08,470.988,26,7.3
+2019-02-23,NextGen Food and beverages,Food and beverages,Yangon,4,73.47,308.574,32,6.0
+2019-02-07,Luxe Health and beauty,Health and beauty,Naypyitaw,10,58.95,618.975,66,8.1
+2019-01-11,Luxe Food and beverages,Food and beverages,Yangon,6,48.5,305.55,41,9.4
+2019-02-12,Zen Electronic accessories,Electronic accessories,Mandalay,1,39.48,41.454,21,6.5
+2019-01-14,Prime Sports and travel,Sports and travel,Mandalay,1,34.81,36.5505,29,7.0
+2019-01-09,Core Fashion accessories,Fashion accessories,Naypyitaw,6,49.32,310.716,54,7.1
+2019-02-27,Zen Fashion accessories,Fashion accessories,Yangon,2,21.48,45.108,54,6.6
+2019-01-24,Prime Sports and travel,Sports and travel,Mandalay,6,23.08,145.404,60,4.9
+2019-01-08,Prime Home and lifestyle,Home and lifestyle,Mandalay,2,49.1,103.11,23,6.4
+2019-01-08,Luxe Sports and travel,Sports and travel,Mandalay,2,64.83,136.143,56,8.0
+2019-01-16,Aura Home and lifestyle,Home and lifestyle,Yangon,10,63.56,667.38,63,4.3
+2019-03-13,Aura Sports and travel,Sports and travel,Naypyitaw,2,72.88,153.048,41,6.1
+2019-02-15,NextGen Food and beverages,Food and beverages,Yangon,3,67.1,211.365,28,7.5
+2019-01-25,Luxe Sports and travel,Sports and travel,Naypyitaw,9,70.19,663.2955,30,6.7
+2019-03-12,Prime Food and beverages,Food and beverages,Naypyitaw,7,55.04,404.544,51,5.2
+2019-03-04,Core Health and beauty,Health and beauty,Yangon,10,48.63,510.615,42,8.8
+2019-02-10,Aura Fashion accessories,Fashion accessories,Naypyitaw,7,73.38,539.343,24,9.5
+2019-01-16,Prime Food and beverages,Food and beverages,Naypyitaw,9,52.6,497.07,69,7.6
+2019-01-29,Aura Home and lifestyle,Home and lifestyle,Yangon,5,87.37,458.6925,21,6.6
+2019-01-01,Aura Sports and travel,Sports and travel,Yangon,4,27.04,113.568,25,6.9
+2019-01-06,Aura Home and lifestyle,Home and lifestyle,Mandalay,4,62.19,261.198,37,4.3
+2019-02-19,Core Electronic accessories,Electronic accessories,Yangon,9,69.58,657.531,46,7.8
+2019-01-12,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,10,97.5,1023.75,68,8.0
+2019-02-07,Core Fashion accessories,Fashion accessories,Naypyitaw,8,60.41,507.444,62,9.6
+2019-03-27,Zen Food and beverages,Food and beverages,Mandalay,3,32.32,101.808,63,4.3
+2019-02-27,Prime Fashion accessories,Fashion accessories,Mandalay,10,19.77,207.585,27,5.0
+2019-01-06,Luxe Health and beauty,Health and beauty,Mandalay,9,80.47,760.4415,60,9.2
+2019-03-02,Luxe Home and lifestyle,Home and lifestyle,Mandalay,9,88.39,835.2855,51,6.3
+2019-03-29,Luxe Health and beauty,Health and beauty,Mandalay,7,71.77,527.5095,43,8.9
+2019-01-31,Luxe Electronic accessories,Electronic accessories,Mandalay,4,43.0,180.6,58,7.6
+2019-01-21,Core Food and beverages,Food and beverages,Naypyitaw,1,68.98,72.429,66,4.8
+2019-01-20,Luxe Fashion accessories,Fashion accessories,Naypyitaw,8,15.62,131.208,20,9.1
+2019-01-17,NextGen Sports and travel,Sports and travel,Yangon,3,25.7,80.955,23,6.1
+2019-02-28,Prime Food and beverages,Food and beverages,Yangon,6,80.62,507.906,22,9.1
+2019-03-19,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,4,75.53,317.226,22,8.3
+2019-02-19,Prime Electronic accessories,Electronic accessories,Naypyitaw,9,77.63,733.6035,64,7.2
+2019-02-04,NextGen Health and beauty,Health and beauty,Naypyitaw,9,13.85,130.8825,40,6.0
+2019-01-31,NextGen Fashion accessories,Fashion accessories,Naypyitaw,8,98.7,829.08,66,8.5
+2019-02-06,Prime Health and beauty,Health and beauty,Yangon,5,35.68,187.32,26,6.6
+2019-03-28,Aura Fashion accessories,Fashion accessories,Yangon,7,71.46,525.231,52,4.5
+2019-01-19,Zen Electronic accessories,Electronic accessories,Yangon,3,11.94,37.611,37,8.1
+2019-02-17,Aura Fashion accessories,Fashion accessories,Yangon,3,45.38,142.947,66,7.2
+2019-01-18,Aura Fashion accessories,Fashion accessories,Mandalay,6,17.48,110.124,59,6.1
+2019-02-02,Core Fashion accessories,Fashion accessories,Mandalay,7,25.56,187.866,52,7.1
+2019-01-18,Aura Sports and travel,Sports and travel,Naypyitaw,9,90.63,856.4535,67,5.1
+2019-03-18,Luxe Home and lifestyle,Home and lifestyle,Mandalay,3,44.12,138.978,35,7.9
+2019-01-11,Core Food and beverages,Food and beverages,Naypyitaw,7,36.77,270.2595,34,7.4
+2019-02-04,Core Food and beverages,Food and beverages,Mandalay,4,23.34,98.028,41,7.4
+2019-02-06,NextGen Health and beauty,Health and beauty,Naypyitaw,8,28.5,239.4,20,6.6
+2019-01-08,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,3,55.57,175.0455,49,5.9
+2019-03-05,NextGen Sports and travel,Sports and travel,Mandalay,10,69.74,732.27,52,8.9
+2019-03-16,Prime Fashion accessories,Fashion accessories,Naypyitaw,4,97.26,408.492,55,6.8
+2019-03-09,Zen Home and lifestyle,Home and lifestyle,Mandalay,7,52.18,383.523,30,9.3
+2019-03-01,Core Fashion accessories,Fashion accessories,Yangon,4,22.32,93.744,64,4.4
+2019-02-28,Prime Health and beauty,Health and beauty,Yangon,3,56.0,176.4,42,4.8
+2019-02-08,Prime Fashion accessories,Fashion accessories,Yangon,1,19.7,20.685,26,9.5
+2019-01-24,Luxe Electronic accessories,Electronic accessories,Mandalay,7,75.88,557.718,21,8.9
+2019-03-01,Zen Food and beverages,Food and beverages,Mandalay,1,53.72,56.406,31,6.4
+2019-03-10,Prime Health and beauty,Health and beauty,Naypyitaw,10,81.95,860.475,54,6.0
+2019-03-23,Prime Home and lifestyle,Home and lifestyle,Naypyitaw,7,81.2,596.82,51,8.1
+2019-01-29,Zen Electronic accessories,Electronic accessories,Naypyitaw,10,58.76,616.98,28,9.0
+2019-01-12,Zen Electronic accessories,Electronic accessories,Mandalay,8,91.56,769.104,58,6.0
+2019-03-20,Prime Home and lifestyle,Home and lifestyle,Yangon,9,93.96,887.922,20,9.8
+2019-03-23,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,7,55.61,408.7335,45,8.5
+2019-01-14,Prime Food and beverages,Food and beverages,Naypyitaw,1,84.83,89.0715,46,8.8
+2019-02-12,Prime Sports and travel,Sports and travel,Yangon,2,71.63,150.423,26,8.8
+2019-02-20,Luxe Home and lifestyle,Home and lifestyle,Yangon,2,37.69,79.149,20,9.5
+2019-01-02,Aura Sports and travel,Sports and travel,Naypyitaw,8,31.67,266.028,42,5.6
+2019-02-02,Prime Food and beverages,Food and beverages,Naypyitaw,1,38.42,40.341,51,8.6
+2019-01-08,NextGen Fashion accessories,Fashion accessories,Mandalay,10,65.23,684.915,29,5.2
+2019-01-30,Core Home and lifestyle,Home and lifestyle,Naypyitaw,5,10.53,55.2825,59,5.8
+2019-03-26,Aura Home and lifestyle,Home and lifestyle,Mandalay,9,12.29,116.1405,26,8.0
+2019-01-15,Aura Health and beauty,Health and beauty,Naypyitaw,7,81.23,597.0405,32,9.0
+2019-03-14,Aura Fashion accessories,Fashion accessories,Mandalay,4,22.32,93.744,57,4.1
+2019-02-03,Luxe Food and beverages,Food and beverages,Yangon,5,27.28,143.22,42,8.6
+2019-02-22,Prime Electronic accessories,Electronic accessories,Yangon,10,17.42,182.91,22,7.0
+2019-01-24,Luxe Home and lifestyle,Home and lifestyle,Mandalay,5,73.28,384.72,28,8.4
+2019-01-25,Prime Fashion accessories,Fashion accessories,Naypyitaw,3,84.87,267.3405,51,7.4
+2019-03-09,Luxe Fashion accessories,Fashion accessories,Yangon,8,97.29,817.236,41,6.2
+2019-02-17,Luxe Electronic accessories,Electronic accessories,Mandalay,8,35.74,300.216,32,4.9
+2019-01-11,Core Home and lifestyle,Home and lifestyle,Yangon,6,96.52,608.076,55,4.5
+2019-02-27,NextGen Food and beverages,Food and beverages,Yangon,10,18.85,197.925,25,5.6
+2019-03-25,Luxe Food and beverages,Food and beverages,Yangon,4,55.39,232.638,22,8.0
+2019-02-11,Core Food and beverages,Food and beverages,Mandalay,10,77.2,810.6,65,5.6
+2019-01-31,Zen Electronic accessories,Electronic accessories,Mandalay,10,72.13,757.365,43,4.2
+2019-01-20,NextGen Fashion accessories,Fashion accessories,Yangon,8,63.88,536.592,35,9.9
+2019-03-26,Luxe Health and beauty,Health and beauty,Yangon,5,10.69,56.1225,23,7.6
+2019-01-20,Aura Health and beauty,Health and beauty,Yangon,4,55.5,233.1,54,6.6
+2019-03-05,Zen Home and lifestyle,Home and lifestyle,Mandalay,8,95.46,801.864,65,4.7
+2019-01-05,Zen Fashion accessories,Fashion accessories,Naypyitaw,3,76.06,239.589,30,9.8
+2019-02-13,Core Sports and travel,Sports and travel,Mandalay,6,13.69,86.247,45,6.3
+2019-03-16,Zen Electronic accessories,Electronic accessories,Mandalay,4,95.64,401.688,22,7.9
+2019-01-15,NextGen Home and lifestyle,Home and lifestyle,Yangon,6,11.43,72.009,30,7.7
+2019-02-26,Luxe Sports and travel,Sports and travel,Mandalay,4,95.54,401.268,34,4.5
+2019-02-27,Luxe Health and beauty,Health and beauty,Naypyitaw,7,85.87,631.1445,67,8.0
+2019-02-17,Aura Sports and travel,Sports and travel,Naypyitaw,7,67.99,499.7265,57,5.7
+2019-02-06,Core Food and beverages,Food and beverages,Naypyitaw,1,52.42,55.041,62,6.3
+2019-01-17,Aura Food and beverages,Food and beverages,Naypyitaw,2,65.65,137.865,49,6.0
+2019-01-22,Zen Food and beverages,Food and beverages,Mandalay,5,28.86,151.515,46,8.0
+2019-03-05,Aura Health and beauty,Health and beauty,Naypyitaw,7,65.31,480.0285,68,4.2
+2019-01-03,NextGen Sports and travel,Sports and travel,Mandalay,1,93.38,98.049,20,9.6
+2019-03-20,Luxe Sports and travel,Sports and travel,Naypyitaw,5,25.25,132.5625,57,6.1
+2019-01-31,Zen Electronic accessories,Electronic accessories,Mandalay,9,87.87,830.3715,51,5.6
+2019-02-19,Aura Health and beauty,Health and beauty,Naypyitaw,8,21.8,183.12,57,8.3
+2019-02-11,Core Sports and travel,Sports and travel,Yangon,4,94.76,397.992,44,7.8
+2019-02-05,NextGen Fashion accessories,Fashion accessories,Yangon,1,30.62,32.151,30,4.1
+2019-03-03,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,8,44.01,369.684,62,8.8
+2019-02-24,Aura Health and beauty,Health and beauty,Naypyitaw,5,10.16,53.34,50,4.1
+2019-02-04,Luxe Electronic accessories,Electronic accessories,Yangon,7,74.58,548.163,23,9.0
+2019-02-19,Aura Electronic accessories,Electronic accessories,Naypyitaw,8,71.89,603.876,41,5.5
+2019-01-23,Zen Health and beauty,Health and beauty,Naypyitaw,5,10.99,57.6975,36,9.3
+2019-01-14,Aura Health and beauty,Health and beauty,Naypyitaw,3,60.47,190.4805,33,5.6
+2019-01-17,NextGen Sports and travel,Sports and travel,Yangon,7,58.91,432.9885,57,9.7
+2019-03-03,Aura Fashion accessories,Fashion accessories,Yangon,1,46.41,48.7305,45,4.0
+2019-02-15,Luxe Health and beauty,Health and beauty,Naypyitaw,4,68.55,287.91,50,9.2
+2019-01-15,Core Home and lifestyle,Home and lifestyle,Mandalay,10,97.37,1022.385,65,4.9
+2019-02-27,Prime Electronic accessories,Electronic accessories,Yangon,7,92.6,680.61,58,9.3
+2019-02-26,Aura Electronic accessories,Electronic accessories,Yangon,2,46.61,97.881,30,6.6
+2019-03-15,Luxe Fashion accessories,Fashion accessories,Mandalay,2,27.18,57.078,60,4.3
+2019-01-24,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,1,60.87,63.9135,62,5.5
+2019-02-22,Core Sports and travel,Sports and travel,Yangon,10,24.49,257.145,42,8.1
+2019-03-15,NextGen Health and beauty,Health and beauty,Mandalay,1,92.78,97.419,59,9.8
+2019-02-11,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,5,86.69,455.1225,53,9.4
+2019-01-12,Luxe Sports and travel,Sports and travel,Mandalay,6,23.01,144.963,44,7.9
+2019-03-03,Luxe Electronic accessories,Electronic accessories,Naypyitaw,8,30.2,253.68,55,5.1
+2019-03-23,Luxe Fashion accessories,Fashion accessories,Naypyitaw,7,67.39,495.3165,24,6.9
+2019-03-04,Zen Fashion accessories,Fashion accessories,Yangon,9,48.96,462.672,22,8.0
+2019-02-23,Zen Electronic accessories,Electronic accessories,Mandalay,9,75.59,714.3255,60,8.0
+2019-03-17,NextGen Home and lifestyle,Home and lifestyle,Yangon,4,77.47,325.374,62,4.2
+2019-01-16,Aura Sports and travel,Sports and travel,Yangon,2,93.18,195.678,68,8.5
+2019-01-08,Luxe Electronic accessories,Electronic accessories,Yangon,4,50.23,210.966,48,9.0
+2019-01-14,Core Health and beauty,Health and beauty,Mandalay,1,17.75,18.6375,40,8.6
+2019-01-31,Aura Fashion accessories,Fashion accessories,Naypyitaw,10,62.18,652.89,59,6.0
+2019-03-15,Core Health and beauty,Health and beauty,Mandalay,8,10.75,90.3,27,6.2
+2019-02-24,Aura Electronic accessories,Electronic accessories,Yangon,10,40.26,422.73,49,5.0
+2019-02-08,NextGen Sports and travel,Sports and travel,Naypyitaw,5,64.97,341.0925,60,6.5
+2019-03-22,Luxe Electronic accessories,Electronic accessories,Yangon,1,95.15,99.9075,47,6.0
+2019-01-24,Luxe Electronic accessories,Electronic accessories,Yangon,8,48.62,408.408,56,5.0
+2019-03-14,Prime Food and beverages,Food and beverages,Mandalay,8,53.21,446.964,48,5.0
+2019-01-23,Core Fashion accessories,Fashion accessories,Naypyitaw,7,45.44,333.984,35,9.2
+2019-01-19,Aura Food and beverages,Food and beverages,Yangon,8,33.88,284.592,53,9.6
+2019-01-27,Aura Health and beauty,Health and beauty,Mandalay,4,96.16,403.872,19,8.4
+2019-02-03,Zen Food and beverages,Food and beverages,Mandalay,5,47.16,247.59,31,6.0
+2019-03-25,Prime Electronic accessories,Electronic accessories,Mandalay,4,52.89,222.138,30,6.7
+2019-02-24,Zen Home and lifestyle,Home and lifestyle,Yangon,2,47.68,100.128,46,4.1
+2019-02-07,Zen Sports and travel,Sports and travel,Naypyitaw,1,10.17,10.6785,29,5.9
+2019-03-04,Zen Health and beauty,Health and beauty,Yangon,3,68.71,216.4365,56,8.7
+2019-02-14,Core Sports and travel,Sports and travel,Mandalay,7,60.08,441.588,19,4.5
+2019-01-29,Core Sports and travel,Sports and travel,Yangon,4,22.01,92.442,49,6.6
+2019-01-28,NextGen Health and beauty,Health and beauty,Mandalay,9,72.11,681.4395,30,7.7
+2019-03-26,NextGen Fashion accessories,Fashion accessories,Yangon,3,41.28,130.032,63,8.5
+2019-03-24,Zen Electronic accessories,Electronic accessories,Naypyitaw,10,64.95,681.975,44,5.2
+2019-01-01,Prime Electronic accessories,Electronic accessories,Yangon,10,74.22,779.31,66,4.3
+2019-01-24,Aura Electronic accessories,Electronic accessories,Yangon,8,10.56,88.704,58,7.6
+2019-02-25,Core Health and beauty,Health and beauty,Mandalay,4,62.57,262.794,34,9.5
+2019-01-09,Prime Sports and travel,Sports and travel,Mandalay,8,11.85,99.54,57,4.1
+2019-02-14,Luxe Health and beauty,Health and beauty,Yangon,1,91.3,95.865,48,9.2
+2019-03-12,Core Home and lifestyle,Home and lifestyle,Mandalay,7,40.73,299.3655,51,5.4
+2019-03-26,Core Fashion accessories,Fashion accessories,Yangon,1,52.38,54.999,41,5.8
+2019-01-09,NextGen Fashion accessories,Fashion accessories,Yangon,5,38.54,202.335,62,5.6
+2019-01-02,Aura Sports and travel,Sports and travel,Mandalay,6,44.63,281.169,52,5.1
+2019-01-15,Aura Electronic accessories,Electronic accessories,Naypyitaw,10,55.87,586.635,65,5.8
+2019-01-01,Luxe Sports and travel,Sports and travel,Naypyitaw,6,29.22,184.086,23,5.0
+2019-02-15,Luxe Fashion accessories,Fashion accessories,Yangon,3,51.94,163.611,36,7.9
+2019-02-28,Core Electronic accessories,Electronic accessories,Mandalay,1,60.3,63.315,47,6.0
+2019-03-02,Zen Sports and travel,Sports and travel,Yangon,2,39.47,82.887,24,5.0
+2019-02-13,NextGen Food and beverages,Food and beverages,Naypyitaw,2,14.87,31.227,27,8.9
+2019-01-26,NextGen Fashion accessories,Fashion accessories,Yangon,1,21.32,22.386,58,5.9
+2019-01-30,Core Electronic accessories,Electronic accessories,Yangon,3,93.78,295.407,49,5.9
+2019-01-27,Prime Electronic accessories,Electronic accessories,Yangon,1,73.26,76.923,51,9.7
+2019-01-30,Zen Sports and travel,Sports and travel,Naypyitaw,1,22.38,23.499,45,8.6
+2019-01-08,Core Food and beverages,Food and beverages,Naypyitaw,9,72.88,688.716,32,4.0
+2019-01-19,Zen Fashion accessories,Fashion accessories,Yangon,6,99.1,624.33,47,4.2
+2019-01-25,Zen Fashion accessories,Fashion accessories,Yangon,1,74.1,77.805,54,9.2
+2019-02-19,Zen Fashion accessories,Fashion accessories,Yangon,2,98.48,206.808,46,9.2
+2019-01-14,Core Health and beauty,Health and beauty,Naypyitaw,7,53.19,390.9465,39,5.0
+2019-02-25,NextGen Electronic accessories,Electronic accessories,Mandalay,10,52.79,554.295,21,10.0
+2019-01-23,NextGen Health and beauty,Health and beauty,Yangon,5,95.95,503.7375,37,8.8
+2019-02-16,Zen Fashion accessories,Fashion accessories,Mandalay,9,36.51,345.0195,49,4.2
+2019-01-01,Prime Food and beverages,Food and beverages,Mandalay,8,21.12,177.408,53,6.3
+2019-03-07,Aura Home and lifestyle,Home and lifestyle,Yangon,4,28.31,118.902,67,8.2
+2019-02-15,Core Health and beauty,Health and beauty,Mandalay,6,57.59,362.817,21,5.1
+2019-01-23,Aura Food and beverages,Food and beverages,Yangon,9,47.63,450.1035,44,5.0
+2019-02-20,Prime Home and lifestyle,Home and lifestyle,Naypyitaw,1,86.27,90.5835,34,7.0
+2019-01-08,Core Sports and travel,Sports and travel,Yangon,2,12.76,26.796,29,7.8
+2019-03-17,Zen Home and lifestyle,Home and lifestyle,Mandalay,9,11.28,106.596,39,4.3
+2019-01-12,NextGen Home and lifestyle,Home and lifestyle,Mandalay,7,51.07,375.3645,34,7.0
+2019-01-08,Aura Electronic accessories,Electronic accessories,Yangon,3,79.59,250.7085,27,6.6
+2019-01-26,Luxe Health and beauty,Health and beauty,Naypyitaw,3,33.81,106.5015,18,7.3
+2019-03-15,Luxe Sports and travel,Sports and travel,Mandalay,8,90.53,760.452,39,6.5
+2019-01-17,Prime Health and beauty,Health and beauty,Naypyitaw,2,62.82,131.922,43,4.9
+2019-01-08,Zen Food and beverages,Food and beverages,Naypyitaw,3,24.31,76.5765,35,4.3
+2019-01-06,Aura Sports and travel,Sports and travel,Yangon,4,64.59,271.278,67,9.3
+2019-02-16,Zen Food and beverages,Food and beverages,Yangon,7,24.82,182.427,31,7.1
+2019-03-13,Aura Fashion accessories,Fashion accessories,Naypyitaw,1,56.5,59.325,64,9.6
+2019-01-28,Prime Electronic accessories,Electronic accessories,Mandalay,10,21.43,225.015,46,6.2
+2019-01-18,Prime Sports and travel,Sports and travel,Yangon,6,89.06,561.078,29,9.9
+2019-03-19,Luxe Home and lifestyle,Home and lifestyle,Yangon,4,23.29,97.818,53,5.9
+2019-03-15,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,8,65.26,548.184,52,6.3
+2019-02-12,Core Fashion accessories,Fashion accessories,Naypyitaw,1,52.35,54.9675,69,4.0
+2019-02-25,Luxe Electronic accessories,Electronic accessories,Mandalay,1,39.75,41.7375,29,6.1
+2019-03-21,Zen Electronic accessories,Electronic accessories,Yangon,8,90.02,756.168,24,4.5
+2019-01-19,Luxe Electronic accessories,Electronic accessories,Mandalay,8,12.1,101.64,46,8.6
+2019-01-08,Core Food and beverages,Food and beverages,Mandalay,10,33.21,348.705,28,6.0
+2019-03-30,NextGen Fashion accessories,Fashion accessories,Naypyitaw,8,10.18,85.512,50,9.5
+2019-02-20,NextGen Sports and travel,Sports and travel,Mandalay,10,31.99,335.895,23,9.9
+2019-03-30,NextGen Home and lifestyle,Home and lifestyle,Yangon,6,34.42,216.846,64,7.5
+2019-03-19,NextGen Food and beverages,Food and beverages,Yangon,2,83.34,175.014,32,7.6
+2019-01-13,Aura Sports and travel,Sports and travel,Yangon,7,45.58,335.013,49,5.0
+2019-02-05,NextGen Food and beverages,Food and beverages,Yangon,1,87.9,92.295,68,6.7
+2019-03-23,Core Electronic accessories,Electronic accessories,Yangon,10,73.47,771.435,28,9.5
+2019-03-13,Prime Fashion accessories,Fashion accessories,Naypyitaw,8,12.19,102.396,40,6.8
+2019-03-17,Prime Sports and travel,Sports and travel,Yangon,10,76.92,807.66,43,5.6
+2019-02-21,Aura Health and beauty,Health and beauty,Naypyitaw,5,83.66,439.215,51,7.2
+2019-02-07,NextGen Electronic accessories,Electronic accessories,Mandalay,8,57.91,486.444,63,8.1
+2019-03-02,NextGen Fashion accessories,Fashion accessories,Naypyitaw,5,92.49,485.5725,51,8.6
+2019-03-06,NextGen Electronic accessories,Electronic accessories,Mandalay,5,28.38,148.995,46,9.4
+2019-02-06,Luxe Electronic accessories,Electronic accessories,Mandalay,6,50.45,317.835,21,8.9
+2019-01-28,Zen Health and beauty,Health and beauty,Mandalay,8,99.16,832.944,34,4.2
+2019-01-18,Luxe Fashion accessories,Fashion accessories,Naypyitaw,7,60.74,446.439,52,5.0
+2019-02-05,Zen Food and beverages,Food and beverages,Naypyitaw,6,47.27,297.801,30,8.8
+2019-03-02,NextGen Health and beauty,Health and beauty,Naypyitaw,7,85.6,629.16,58,5.3
+2019-02-09,NextGen Food and beverages,Food and beverages,Yangon,9,35.04,331.128,56,4.6
+2019-01-14,Luxe Electronic accessories,Electronic accessories,Naypyitaw,9,44.84,423.738,32,7.5
+2019-02-09,Luxe Home and lifestyle,Home and lifestyle,Mandalay,4,45.97,193.074,46,5.1
+2019-03-26,Zen Health and beauty,Health and beauty,Yangon,5,27.73,145.5825,46,4.2
+2019-01-28,Prime Food and beverages,Food and beverages,Yangon,7,11.53,84.7455,28,8.1
+2019-02-14,Zen Health and beauty,Health and beauty,Naypyitaw,2,58.32,122.472,69,6.0
+2019-03-24,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,4,78.38,329.196,49,7.9
+2019-02-09,Core Health and beauty,Health and beauty,Naypyitaw,10,84.61,888.405,19,8.8
+2019-03-24,Luxe Health and beauty,Health and beauty,Mandalay,5,82.88,435.12,64,6.6
+2019-03-27,Core Food and beverages,Food and beverages,Yangon,2,79.54,167.034,31,6.2
+2019-01-27,Aura Home and lifestyle,Home and lifestyle,Mandalay,10,49.01,514.605,37,4.2
+2019-03-27,Luxe Food and beverages,Food and beverages,Mandalay,3,29.15,91.8225,39,7.3
+2019-01-19,Aura Electronic accessories,Electronic accessories,Naypyitaw,4,56.13,235.746,28,8.6
+2019-02-07,Prime Home and lifestyle,Home and lifestyle,Yangon,8,93.12,782.208,44,6.8
+2019-01-31,Zen Fashion accessories,Fashion accessories,Yangon,8,51.34,431.256,20,7.6
+2019-02-25,Core Food and beverages,Food and beverages,Yangon,3,99.6,313.74,34,5.8
+2019-02-02,Zen Electronic accessories,Electronic accessories,Naypyitaw,6,35.49,223.587,61,4.1
+2019-03-14,Aura Sports and travel,Sports and travel,Naypyitaw,1,42.85,44.9925,45,9.3
+2019-03-11,Core Fashion accessories,Fashion accessories,Yangon,4,94.67,397.614,46,6.8
+2019-02-22,Zen Home and lifestyle,Home and lifestyle,Mandalay,3,68.97,217.2555,38,8.7
+2019-03-02,Luxe Electronic accessories,Electronic accessories,Mandalay,3,26.26,82.719,64,6.3
+2019-03-10,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,9,35.79,338.2155,33,5.1
+2019-02-08,Aura Home and lifestyle,Home and lifestyle,Mandalay,6,16.37,103.131,54,7.0
+2019-02-22,Zen Home and lifestyle,Home and lifestyle,Naypyitaw,2,12.73,26.733,37,5.2
+2019-01-10,Aura Sports and travel,Sports and travel,Naypyitaw,7,83.14,611.079,23,6.6
+2019-03-14,Aura Sports and travel,Sports and travel,Naypyitaw,6,35.22,221.886,36,6.5
+2019-01-10,Core Electronic accessories,Electronic accessories,Mandalay,4,13.78,57.876,22,9.0
+2019-02-15,Core Sports and travel,Sports and travel,Mandalay,1,88.31,92.7255,20,5.2
+2019-01-13,NextGen Health and beauty,Health and beauty,Yangon,9,39.62,374.409,18,6.8
+2019-02-15,Luxe Electronic accessories,Electronic accessories,Mandalay,9,88.25,833.9625,55,7.6
+2019-03-02,Aura Sports and travel,Sports and travel,Mandalay,2,25.31,53.151,32,7.2
+2019-03-24,Zen Home and lifestyle,Home and lifestyle,Mandalay,6,99.92,629.496,51,7.1
+2019-02-02,Prime Fashion accessories,Fashion accessories,Naypyitaw,2,83.35,175.035,52,9.5
+2019-02-27,Aura Food and beverages,Food and beverages,Yangon,10,74.44,781.62,66,5.1
+2019-01-20,Aura Health and beauty,Health and beauty,Naypyitaw,7,64.08,470.988,42,7.6
+2019-01-03,NextGen Home and lifestyle,Home and lifestyle,Mandalay,6,63.15,397.845,41,9.8
+2019-01-24,Luxe Home and lifestyle,Home and lifestyle,Naypyitaw,3,85.72,270.018,29,5.1
+2019-01-05,Prime Health and beauty,Health and beauty,Naypyitaw,7,78.89,579.8415,35,7.5
+2019-03-30,Core Sports and travel,Sports and travel,Yangon,5,89.48,469.77,32,7.4
+2019-02-17,Core Health and beauty,Health and beauty,Yangon,3,92.09,290.0835,61,4.2
+2019-03-21,Zen Food and beverages,Food and beverages,Naypyitaw,6,57.29,360.927,33,5.9
+2019-03-02,Prime Food and beverages,Food and beverages,Yangon,4,66.52,279.384,44,6.9
+2019-03-27,Core Fashion accessories,Fashion accessories,Naypyitaw,9,99.82,943.299,25,6.6
+2019-01-19,Zen Home and lifestyle,Home and lifestyle,Yangon,10,45.68,479.64,63,5.7
+2019-02-19,Luxe Health and beauty,Health and beauty,Yangon,5,50.79,266.6475,42,5.3
+2019-03-28,Zen Health and beauty,Health and beauty,Yangon,7,10.08,74.088,34,4.2
+2019-01-05,Core Electronic accessories,Electronic accessories,Yangon,7,93.88,690.018,46,7.3
+2019-03-26,NextGen Electronic accessories,Electronic accessories,Naypyitaw,2,84.25,176.925,25,5.3
+2019-02-03,NextGen Fashion accessories,Fashion accessories,Mandalay,1,53.78,56.469,32,4.7
+2019-02-06,NextGen Home and lifestyle,Home and lifestyle,Naypyitaw,5,35.81,188.0025,44,7.9
+2019-02-24,Core Food and beverages,Food and beverages,Mandalay,8,26.43,222.012,63,8.9
+2019-02-21,NextGen Health and beauty,Health and beauty,Mandalay,3,39.91,125.7165,67,9.3
+2019-01-09,Prime Home and lifestyle,Home and lifestyle,Mandalay,3,21.9,68.985,69,4.7
+2019-02-25,Luxe Food and beverages,Food and beverages,Mandalay,4,62.85,263.97,24,8.7
+2019-01-13,Zen Food and beverages,Food and beverages,Naypyitaw,4,21.04,88.368,20,7.6
+2019-02-09,Zen Home and lifestyle,Home and lifestyle,Mandalay,6,65.91,415.233,46,5.7
+2019-01-06,Core Fashion accessories,Fashion accessories,Yangon,7,42.57,312.8895,61,6.8
+2019-01-10,NextGen Food and beverages,Food and beverages,Naypyitaw,9,50.49,477.1305,41,5.4
+2019-02-07,NextGen Electronic accessories,Electronic accessories,Mandalay,6,46.02,289.926,20,7.1
+2019-01-09,Aura Home and lifestyle,Home and lifestyle,Naypyitaw,10,15.8,165.9,37,7.8
+2019-02-19,Luxe Food and beverages,Food and beverages,Yangon,9,98.66,932.337,63,8.4
+2019-03-18,Prime Fashion accessories,Fashion accessories,Naypyitaw,1,91.98,96.579,32,9.8
+2019-02-05,Zen Electronic accessories,Electronic accessories,Yangon,2,20.89,43.869,42,9.8
+2019-03-19,Aura Fashion accessories,Fashion accessories,Yangon,1,15.5,16.275,47,7.4
+2019-03-30,Aura Electronic accessories,Electronic accessories,Naypyitaw,3,96.82,304.983,31,6.7
+2019-01-26,Core Food and beverages,Food and beverages,Mandalay,2,33.33,69.993,24,6.4
+2019-03-02,Zen Electronic accessories,Electronic accessories,Mandalay,2,38.27,80.367,34,5.8
+2019-03-04,Core Home and lifestyle,Home and lifestyle,Yangon,9,33.3,314.685,61,7.2
+2019-01-13,Prime Home and lifestyle,Home and lifestyle,Yangon,3,81.01,255.1815,37,9.3
+2019-03-25,Aura Health and beauty,Health and beauty,Yangon,3,15.8,49.77,53,9.5
+2019-03-11,Aura Electronic accessories,Electronic accessories,Mandalay,5,34.49,181.0725,26,9.0
+2019-01-01,Luxe Food and beverages,Food and beverages,Mandalay,10,84.63,888.615,55,9.0
+2019-02-10,Prime Home and lifestyle,Home and lifestyle,Mandalay,7,36.91,271.2885,65,6.7
+2019-01-26,Aura Electronic accessories,Electronic accessories,Mandalay,7,87.08,640.038,39,5.5
+2019-02-11,Prime Home and lifestyle,Home and lifestyle,Yangon,3,80.08,252.252,19,5.4
+2019-02-07,Zen Fashion accessories,Fashion accessories,Naypyitaw,2,86.13,180.873,41,8.2
+2019-03-06,NextGen Fashion accessories,Fashion accessories,Mandalay,2,49.92,104.832,25,7.0
+2019-03-04,Aura Food and beverages,Food and beverages,Yangon,4,74.66,313.572,28,8.5
+2019-02-26,Luxe Food and beverages,Food and beverages,Mandalay,6,26.6,167.58,30,4.9
+2019-03-10,Zen Electronic accessories,Electronic accessories,Mandalay,1,25.45,26.7225,34,5.1
+2019-02-04,Prime Food and beverages,Food and beverages,Mandalay,1,67.77,71.1585,25,6.5
+2019-01-19,Core Food and beverages,Food and beverages,Naypyitaw,4,59.59,250.278,38,9.8
+2019-01-23,Zen Health and beauty,Health and beauty,Yangon,4,58.15,244.23,35,8.4
+2019-03-14,Aura Sports and travel,Sports and travel,Yangon,9,97.48,921.186,47,7.4
+2019-01-23,Prime Health and beauty,Health and beauty,Naypyitaw,7,99.96,734.706,35,6.1
+2019-01-09,NextGen Electronic accessories,Electronic accessories,Naypyitaw,7,96.37,708.3195,63,6.0
+2019-02-07,Zen Fashion accessories,Fashion accessories,Mandalay,5,63.71,334.4775,64,8.5
+2019-02-18,Aura Health and beauty,Health and beauty,Mandalay,2,14.76,30.996,48,4.3
+2019-01-03,Luxe Health and beauty,Health and beauty,Mandalay,8,62.0,520.8,55,6.2
+2019-03-29,Core Electronic accessories,Electronic accessories,Naypyitaw,10,82.34,864.57,49,4.3
+2019-01-28,Prime Health and beauty,Health and beauty,Mandalay,8,75.37,633.108,28,8.4
+2019-03-22,Zen Food and beverages,Food and beverages,Yangon,5,56.56,296.94,62,4.5
+2019-01-24,Zen Sports and travel,Sports and travel,Mandalay,10,76.6,804.3,42,6.0
+2019-03-10,NextGen Electronic accessories,Electronic accessories,Yangon,2,58.03,121.863,50,8.8
+2019-02-22,NextGen Fashion accessories,Fashion accessories,Mandalay,10,17.49,183.645,55,6.6
+2019-02-18,Luxe Electronic accessories,Electronic accessories,Naypyitaw,1,60.95,63.9975,58,5.9
+2019-01-29,Core Health and beauty,Health and beauty,Naypyitaw,1,40.35,42.3675,25,6.2
+2019-03-02,Luxe Home and lifestyle,Home and lifestyle,Mandalay,10,97.38,1022.49,28,4.4
+2019-02-09,Aura Food and beverages,Food and beverages,Yangon,1,31.84,33.432,39,7.7
+2019-02-22,Aura Home and lifestyle,Home and lifestyle,Yangon,1,65.82,69.111,68,4.1
+2019-02-18,Luxe Fashion accessories,Fashion accessories,Yangon,7,88.34,649.299,41,6.6
